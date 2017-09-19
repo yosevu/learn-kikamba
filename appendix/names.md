@@ -1,0 +1,12 @@
+Kamene
+-
+Makaũ
+-
+Mũsyoki
+-
+Mũtũa
+- 
+Mũtuku
+-
+Wambua
+-

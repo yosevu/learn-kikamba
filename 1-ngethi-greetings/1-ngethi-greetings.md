@@ -2,21 +2,21 @@
 
 ## Kukethania kwa wo - Exchange Greetings Appropriately
 
-### Ngewa - Dialogue: Ndũnge Na Mutunga
+### NgeWA - Dialogue: Ndũnge Na Mũtũnga 
 ####  A:
-Mũtũnga:    Oti.
-Ndũnge:     Lika.
-Mũtũnga:    Uvoo waku mwiitu.
-Ndũnge:     Ni museo mwanake. Nata?
+Mũtũnga:    Oti. / Hodi
+Ndũnge:     Lika. / (Likaa) Come in
+Mũtũnga:    Uvoo waku mwiitu. (msichana)
+Ndũnge:     Ni museo mwanake. Nata? (Howdy?)
 Mũtũnga:    Ni nesa muno.
-Ndunge:     Thumua.
-Mutunga:    Ĩĩ ni muvea.
+Ndunge:     Thumua. (Sit down,lit: rest)
+Mutunga:    Ĩĩ nĩ muvea.
 Ndũnge:     Waamuka ata?
 Mũtũnga:    Naamuka nesa. 
 
 #### B:
 
-Mũtua:              Mwĩ aseo?
+Mũtua:              Mwĩ aseo? (Ninyi aseo)
 Mũtinda/Ndinda:     Ĩĩ twi aseo.
 Mũtua:              Uvoo wenyu?
 Mũtinda/Ndinda:     Nĩ mũseo.
@@ -37,32 +37,34 @@ Mwaitu:     AAya, enda nesa mwiitu wakwa.
 Ndinda:     Ni muvea mwaitu.
 Mwendwa:    Wakya mwiitu?
 Mwiitu:     Aaa.
-Mwendwa:    Wakya ingi?
+Mwendwa:    Wakya ingi? (Twice/second/again, TENA)
 Mwiitu:     Aaa.
 
-### D: Mũli na Mulwa
+mutumia - old man/mzee
 
-Mũli:       Nata Muli?
+### D: Mũli na Mulwa (two males)
+
+Mũli:       Nata Mũlwa?
 Mũlwa:      Ni nesa/ni kuseo?
 Mũli:       Ũvoo wa wia.
-Mũlwa:      Ti muthuku.
-Mũli:       Syana no nzeo.
-Mũlwa:      Ĩĩ no nzeo.
-Mũli:       Watinda ata?
-Mũlwa:      Natinda nesa.
+Mũlwa:      Ti muthuku. (Mutoku)
+Mũli:       Syana no/nĩ nzeo.
+Mũlwa:      Ĩĩ no/nĩ nzeo.
+Mũli:       Waatinda ata? (waatind-ata)
+Mũlwa:      Naatinda nesa.
 
-Soma kwa wasya munene
+Soma kwa wasya (sauti) munene
 
 Wĩ museo?         Ĩĩ nĩ mũseo.
 Uvoo waku?        Nĩ kũseo. 
-Watinda ata?      Natinda nesa.
-Nata yu?          Nĩ nesa/ni kũseo.
+Waatinda ata?     Natinda nesa.
+Nata yu? (yu/now)          Nĩ nesa/ni kũseo.
 Uvoo wa Kwakya?   Nĩ mũseo.
 Uvoo wa muthenya? Nĩ mũseo
-Uvoo wa musyi?    Nĩ mũseo.
+Uvoo wa musyĩ?    Nĩ mũseo.
 Uvoo wa wĩa?      Nĩ mũseo.
 
-#### Vocabulary
+#### Ndeto Nzau - Vocabulary
 
 kwakya - morning
 kũamũka - to wake up
@@ -79,7 +81,7 @@ nĩ mũvea - Thank you
 ũvoo wa kwakya - news of the morning?
 ni mũseo - It is fine
 ũvoo waku - How are you (sing.)
-ũvoo wenyu - How are you (pl.) 
+ũvoo wenyu - How are you (pl.)
 
 #### Grammar
 
