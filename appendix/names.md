@@ -1,12 +1,12 @@
-Kamene
--
-Makaũ
--
-Mũsyoki
--
-Mũtũa
-- 
-Mũtuku
--
-Wambua
--
+# Male
+- Mũtũa
+- Mũtuku
+- Mũsyoki
+- Makaũ
+- Wambua
+- Syombua
+
+
+# Female
+- Kamene
+

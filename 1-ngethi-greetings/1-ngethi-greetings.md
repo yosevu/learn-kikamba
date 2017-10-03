@@ -66,7 +66,7 @@ Uvoo wa wĩa?      Nĩ mũseo.
 
 #### Ndeto Nzau - Vocabulary
 
-kwakya - morning
+kwaKYA - morning
 kũamũka - to wake up
 ũvoo - news
 mũthenya - day
@@ -101,6 +101,8 @@ Some possessive pronouns have also been used.
 -aku (your) -enu (you all) like in ũvoo waku and ũvoo wenyu. This means how are you (singular) and how are you (pl.). The interrogative “ata”? has been used to mean “How,” for example:
 Waamuka ata? - How have you woken up?
 Watinda ata? - How has your day been?
+
+Syana siile ata ? How are the children
 
 
 #### Notes
