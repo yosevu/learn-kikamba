@@ -36,13 +36,12 @@
 
 # Other
 - Kũkwatya - to trap/kupata kuelewa
-- niniaandikiye - I wrot
+- niniaandikiye - I wrote
 - Kũilyi ata - how is it?
-
-
-
 
 # Review
 - kusaa - ?
 - maKunaa - do
 - musivi waku u ũ 
+
+Nenge manzi - sperm/water

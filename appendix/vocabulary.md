@@ -34,6 +34,8 @@
 - ũmũnthi - today
 - ĩyoo - yesterday
 - unĩ - tomorrow
+- Aũke - the day after tomorrow
+- Iso - the day before yesterday
 
 # Verbs
 - ũka - come
@@ -43,7 +45,19 @@
 # School
 - Ithangu - page
 
+# People
+Ithe waku - Mzazi - male - your father
+Nau - my father
+Inyakwa- Mzazi - female
+
+Mũkũũa - older sibling (brother/sister)
+Mũinawa - younger sibling (brother/sister)
+Mwana wa ĩtina - one born behind
+Mwana wa kakithathi - the one who comes last (last born)
+
+Mwenyu - your mother (negative connotation/abusive) e.g. go back to your mother
 
 # Review
 - musivi
 - kĩvĩ
+

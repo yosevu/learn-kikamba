@@ -1,6 +1,15 @@
 # Present
 - wiasia ata? - What were you saying?
 
+Ndiyetawa - I am not called
+Ndiyumite - I am not from
+(?) Ndyumite - You are not from
+(?) Ndumite - You all are not from
+Tuyumite - We are not from
+Ndaumite - He/She is not from
+Muyumite - You all are not from
+Mayumite - They are not from
+
 ## Eat
 - nye ninguya 
 - we nũũya
@@ -13,9 +22,40 @@
 - nye ninguny(u)w
 - we nuũnywa
 
+
+# Habitual
+Kwĩkala - Nĩkalaa - I stay
+Kũenda/kuthi - Nĩendaa I go
+Kwona - Nĩonaa - I see
+Kũnenga - Nĩnengaa - I give
+Note:
+
+For monosyllabic verb stem ending in “W” change the W to U, then add “SA” before the final A. e.g.
+Nywa – drink changes to nyusaa – always drinks.
+
+# Past (Immediate) 
+
+Nĩnaya - 
+Ndinaya - 
+Nĩnasomaa - 
+Ndinasoma - 
+Nĩnavuma - 
+Ndinavuna - 
+Nĩnathi -
+
+I have just eaten.
+I haven‟t just eaten.
+I have just read.
+I haven‟t just read.
+I have just full/satisfied.
+I‟m not full/satisified
+I‟ve gone/I‟m gone.
+Sometiems we say this yet still standing thus expressing a verb complete in thought but not in action.
+
+
 # Past (Today)
 
-## Kũsoma
+## Read/Study - Kũsoma
 - Ĩyoo ninasomie valua (Yesterday I read a letter)
 - Mwitũ anasomie Kĩswahili.
 
@@ -23,7 +63,7 @@
 - Ĩyoo ninaandikie valũa (Yesterday I wrote a letter)
 
 ## Kuĩma
-- We unaĩmie mũũndanĩ (You dug, farmed, cultivated, ploughed; tilled; hoeed on the farm/garden - shambani)
+- We unaĩmie mũũndanĩ (You ploughed in the farm/garden - shambani)
 
 ## Kũthũmũa
 - Ithyĩ tunathũmũie kwakya (Were rested in the morning)
