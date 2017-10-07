@@ -11,6 +11,7 @@
 - Mutia
 - Kiema
 - Maĩthya
+- Mũtiso
 
 # Female
 - Kamene

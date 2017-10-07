@@ -53,10 +53,15 @@ Inyakwa- Mzazi - female
 Mũkũũa - older sibling (brother/sister)
 Mũinawa - younger sibling (brother/sister)
 Mwana wa ĩtina - one born behind
-Mwana wa kakithathi - the one who comes last (last born)
+Mwana wa ka(small)kithathi - the one who comes last (last born) for a person only - small last born
+Ĩ(big)lumaita/Malumaita - last born only a person - big last born - 
 
 Mwenyu - your mother (negative connotation/abusive) e.g. go back to your mother
-
+Mwendya - cousin
+Mwenduu - aunt (mother')
+Mwendwau - uncle (mother or father's side)
+Mwĩsũkũũwa 
+Iatũ sya mũkalya - tyre sandals
 # Review
 - musivi
 - kĩvĩ

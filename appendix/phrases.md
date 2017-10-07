@@ -45,3 +45,8 @@
 - musivi waku u ũ 
 
 Nenge manzi - sperm/water
+
+Niniamukie nye - I have awoken
+Twiambie va - where do we start?
+
+Ukenuka kyumwa kii? - Will you com this weekend
