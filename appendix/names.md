@@ -12,6 +12,8 @@
 - Kiema
 - Maĩthya
 - Mũtiso
+- KitheKA - male / forest
+- Kitheka
 
 # Female
 - Kamene

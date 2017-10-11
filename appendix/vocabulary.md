@@ -66,3 +66,4 @@ Iatũ sya mũkalya - tyre sandals
 - musivi
 - kĩvĩ
 
+Mwinthoi - worm
