@@ -22,6 +22,7 @@
 - Wanza
 - Ndunge
 - Mukonyo
+- Lotah Mwanga Kilonzo
 
 
 
