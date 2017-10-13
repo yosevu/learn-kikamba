@@ -1,6 +1,4 @@
-Kikamba Self-Instruction Manual
-
-
+# Kikamba Self-Instruction Manual
 
 * * *
 
@@ -568,17 +566,30 @@ EXERCISE TWO: ALYULA – TRANSLATE THESE SENTENCES: -
 
 * * *
 
-LESSON SEVEN
+## Lesson 7 - Isomo ya mwanza: Ũsyao - Family
 
-TOPIC: ŨSYAO
+> Andũ ma mũsyĩ wakwa - People in my family
 
-COMPETENCY: ANDŨ MA MŨSYĩ WAKWA – MY FAMILY
+### Dialogue
 
-DIALOUGE:
+Mũtĩsya: Wĩ mũseo mwĩĩtu? 
 
-Mũtĩsya : Wĩ mũseo mwĩĩtu? Mwende : Ĩĩ nĩmũseo. Mũtisya : Wĩtawa ata? Mwende : Nĩtawa Mwende. Mũtisya : Ĩthe wakue etawa ata? Mwende : Ithe wakwa etawa Makaũ. Mũtisya : Inyia waku etawa ata. Mwende : Mwaitu etawa syokaũ. Mũtisya : Kwenyu kwĩ syana inti? Mwende : Ĩĩ kwi ivĩsĩ ilĩ na mwĩĩtu ũmwe. Mũtisya : Ũla mũkũũ etawa ata? Mwende : Ũla mũkũũ etawa Mũtũa, ũngi etawa Mũli na ũngi
+- Mwende: Ĩĩ nĩ mũseo.
+- Mũtisya: Wĩtawa ata?
+- Mwende: Nĩtawa Mwende.
+- Mũtisya: Ĩthe waku etawa ata?
+- Mwende: Ithe wakwa etawa Makaũ. 
+- Mũtisya: Inyia waku etawa ata. 
+- Mwende: Mwaitu etawa syokaũ.
+- Mũtisya: Kwenyu kwĩ syana ingi? 
+- Mwende: Ĩĩ kwi ivĩsĩ ilĩ na mwĩĩtu ũmwe. 
+- Mũtisya: Ũla mũkũũ etawa ata? 
+- Mwende: Ũla mũkũũ etawa Mũtũa, ũngi etawa Mũli na ũngi etawa Wanza. Kwoou kwitũ ninyie mũnini.
+  - Therefore I am the youngest in our home.
+- Mũtisya : Nĩ mũvea nũndũ wa kũkũmanya.
+- Mwende : Ĩĩ n‟ũseo.
 
-etawa Wanza. Kwoou kwitũ ninyie mũnini. Mũtisya : Nĩ mũvea nũndũ wa kũkũmanya. Mwende : Ĩĩ n‟ũseo.
+
 
 32
 
@@ -671,43 +682,98 @@ CULTURAL NOTE:
 In the Kamba tradition the family inlcues all relatives. As the children grow up, they are expected to meet and know all their existing relatives. Very often people will use the noun musee (old man) when referring to their father as a third person. This is viewed as a sign of respect.
 
 37
-
-
-
 * * *
 
-LESSON EIGHT isomo ya ikumi na nyaanya.
+## Lesson 8 - Isomo ya nyaanya: Mũkaawani/Ũtelini
 
-TOPIC: MŨKAAWANI/ŨTELINI
+> Kwitya liu - Asking for (ordering) food
 
-COMPETENCY: KWITYA LIU – ORDERING FOOD:
+## Dialogue A
 
-DIALOGUE ONE:
+- Kitili: Ũvoo waku?
+- Weita: Nĩ mũseo. Wĩenda kũya kyaũ? 
+- Kitili: Kwĩna lĩu mwaũ? 
+- Weita: Kwina ngima, nyama mũsele makũyũ na isyo. 
+- Kitili: Ndetee ngima na nyama. 
+- Weita: Na wĩenda kũnywa kyaũ? 
+- Kitili: Wĩna sota mũthithu. 
+- Weita: Ĩi. 
+- Kitili: Aaya. Ndetee sota wa fanta mũthithu. 
+- Weita: Osa sota indi eteela lĩu vanini. 
+- Kitili: Nĩ mũvea.
 
-Kitili : Ũvoo waku?
+## Dialogue B
 
-Weita : Nĩ mũseo. Wĩenda kũya kyaũ? Kitili : Kwĩna lĩu mwaũ? Weita : Kwina ngima, nyama mũsele makũyũ na isyo. Kitili : Ndetee ngima na nyama. Weita : Na wĩenda kũnywa kyaũ? Kitili : Wĩna sota mũthithu. Weita : Ĩi. Kitili : Aaya. Ndetee sota wa fanta mũthithu. Weita : Osa sota indi eteela lĩu vanini. Kitili : Nĩ mũvea.
+- Kilonzo: Kũilyi ata mwanake? 
+- Weita: Ni kũseo. Niweetya Iiu? 
+- Kilonzo: Aiee ndinetya. 
+- Weita: Wĩya kĩ? 
+- Kilonzo: Ndetee maluu na nyama ya mbui.
+- Weita: Na wĩnywa kyau? 
+- Kilonzo: Wĩna ukĩ muthithu? 
+- Weita: Ĩĩ wĩnywa wĩku? 
+- Kilonzo: Ndetee tusker nthithu; na gilasi. 
+- Weita: Osa. 
+- Dick: Weita, ndetee mũnyũ. 
+- Kilonzo: Ĩĩ kwata.
 
-DIALOGUE B:
+## Read aloud - Soma kwa wasya munene
 
-Kilonzo : Kũilyi ata mwanake? Weita : Ni kũseo. Niweetya Iiu? Kilonzo : Aiee ndinetya. Weita : Wĩya kĩ? Kilonzo : Ndetee maluu na nyama ya mbui.
+1. Wĩenda lĩu mwaũ? 
+2. Wĩenda matumbĩ. 
+3. Wĩenda kyavati. (upward tone) Chapati
+4. Eenda ngũkũ. 
+5. Nĩenda kyai. 
+6. Eenda sota mũthithu. 
+7. Nĩweetya ĩiu/ĩyu? 
+8. Ĩĩ nĩneetya. - Yes, I ordered. 
+9. Nĩweetya. 
+10. Ndetee kyai. 
+11. Muetee ũsũũ - bring him/her porridge. 
+12. Nenga ĩia. - Give him/her
+13. Maetee ĩiu. 
+14. Tũetee ukĩ mũvyũ. - Hot beer
+15. Nienda ĩia ithithu. - I want cold milk
+16. Ethĩwa (if) nĩ vatonyeka (possible) ndetee kĩwu kya kũnywa/kya ũnywa. - If it is possible, bring me drinking water.
+17. Nenge kyai na mũkate. 
+18. Nenge mũnyũ na kavyũ. - Give me salt and a knife
+19. Ndetee ĩsyo ĩsaani yĩmwe. - Give me one plate of isyi
+20. Mũetee Iĩu mĩtũkĩ. - Bring him/her milk quickly
+21. Eiwa nzaa mũno. - He/she is very hungry
+22. Nĩĩwa nzaa. - I am hungry
+23. Nĩĩwa wauni - I am thirsty
+24. Wĩĩwa nzaa - You are hungry.
+25. Eĩwa nzaa. 
+26. Nĩnamina kũya. 
+27. Syana nĩsyavũna.
 
-38
+## Vocabulary
+**-ĩtya** ask, order
 
+**-vũna** be full, be satisfied
 
+**-ya** eat 
 
-* * *
+**-nywa** drink 
 
-Weita : Na wĩnywa kyau? Kilonzo : Wĩna ukĩ muthithu? Weita : Ĩĩ wĩnywa wĩku? Kilonzo : Ndetee tusker nthithu; na gilasi. Waita : Osa. Dick : Weita, ndetee mũnyũ. Kilonzo : Ĩĩ kwata.
+**mina** finish
 
-Wĩenda lĩu mwaũ? Wĩenda matumbĩ. Wĩenda kyavati. Eenda ngũkũ. Nĩenda kyai. Eenda sota mũthithu. Nĩweetya Iĩu? Ĩĩ nĩeneetya. Nĩweetya. Ndetee kyai. Muetee ũsũũ. Nenga ĩia. Maetee Iiu. Tũetee uki mũvyũ. Nienda ĩia ithithu. Ethĩwa nĩ vatonyeka ndetee kĩwu kya kũnywa. Nenge kyai na mũkate. Nwenge mũnyũ na kavyũ. Ndetee ĩsyo ĩsaani yĩmwe. Mũetee Iĩu mĩtũkĩ. Eiwa nzaa mũno. Nĩĩwa nzaa. Wĩĩwa nzaa Eĩwa nzaa. Nĩnyaya Iĩu. Nĩnamina kũya. Syana nĩsyavũna.
+**kavyũ** (tuvyu) knife
 
-Vocabularies English Plurals: Kwĩtya To order - Kũvũna To be full/satisfied - Kũya To eat - Kũnywa To drink - Kavyũ Knife Tuvyu Ĩsaani Plate Masaani. Kũmina To finish - Mũkaawa Restaurant Mikaawa Mĩtũkĩ Fast/quickly - -Vyũ Hot - -Thithu Cold - Kwĩwa To hear/to feel -
+**ĩsaani** (masaani) plate 
+
+**mũkaawa** (mikaawa) restaurant 
+
+**mĩtũkĩ** fast, quickly
+
+**-vyũ** hot
+
+**-thithu** cold 
+
+**-ĩwa** hear, feel
+
 
 39
-
-
-
 * * *
 
 Nĩĩwa nzaa I‟m hungry (feel hungry) - Ndetee Bring me Tuetee Muetee Bring him/her Maetee Nenge Give me Tunenge Kwĩna There is Tũnga Return (something) Osa Take Kwata Hold it, have it. Nĩnavũna I‟m full, satisfied GRAMMAR EXPLANATION: The grammar in this lesson is the immediate past tense. It refers to an action which has just taken place. Some tiems it is used to express something as “complete in thought but not in action.” The tense particle is „a‟ and it is mutable.

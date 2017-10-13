@@ -107,21 +107,14 @@ Nisome? - Should I read?
 Tiendeye - Let's continue
 Nienda - I want - Nienda uthi Musyi - I want to go to Musyi
 Nithi Musyi - I am going to Musyi
-Tuungame thau - Let's stand/stop there
-Tuminie thau - Let's finish there
-Tyoiwe? - and you?
+
 Nakwa, namka nesa - I woke up well too
-Ndiumanya - I don't understand
-Davida ingi - tell me again
-Ndisye - I don't know
-Kulwa - to forget - Ndiolwa - I forgot/have forgotten
-Etela dakika imwe - Wait one minute
+
 Isyitwa/Masyiwa - Name/Names
 Endai nuseo - You all go well
 Tiwai nuseo - You all stay well
 Kalivu inyonthe - Welcome you all
 Onainwe - You all
-Kuma - from
 Ndunyu - market day
 Sũngia makulyo aa - Answer these questions
 Munyanyau/Munyanyawa - Your friend/My friend

@@ -46,13 +46,18 @@
 - Aũke - the day after tomorrow
 - Iso - the day before yesterday
 
-
-# Verbs
-- ũka - come
-- enda/thi - go
-- kũĩĩa - cry
-
 # People
+- mbovulo - sliced bread
+- inya wakwa (not inyia wakwa) - My mother
+- kusya/kusyawa - bare
+- usyao - offspring
+- au - father (someone else saying)
+- mwiitu a ia etawa Mukonyo - my sister is called Mukonyo
+- mwana saa - my brother
+- maama - uncle
+- andu ma musyi wakwa - people in my family
+- kavĩsĩ - boy
+- ũsyao - family
 - ithe - father (someone elses father)
 - mzazi - male/female parent
 - nau - father (my father)
@@ -72,19 +77,15 @@
 # Review
 - musivi
 - kĩvĩ
-
+- ndikwiwa - hear?
+- **-nenga** give
 
 Ni kuthithu - it is cold
 Kusisia - look - Eka nisisie - let me see/try
 Eka nzisie
 
-Kweka - to leave/to let
 Eka noone - let me see
 
-Kwikalaa - stay/remain
-Kalaa - stay
-
-Kutiwa - be left
 Tiwai -
 
 Inaendie ata?

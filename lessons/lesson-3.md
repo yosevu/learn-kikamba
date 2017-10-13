@@ -31,7 +31,6 @@ Niwathokwa (uwa) mavinda onthe - all of the times
 
 Vandu vetawa Iveti- a place called Iveti
 
-Ohh ninisi - ohh I know
 
 Mutokaa - car
 
@@ -136,10 +135,7 @@ Makunaa viasala - they do business
 
 Mwinukaa na mbasi - you go home by bus
 
-Naku Otawo (otauwo) - na wewe pia
-Aaya, ndutinde nesa - You have a good day
-ii Ti nuseo
-Tukaendeye ĩtina - we will continue later
+
 -- page 21
 
 1. Ũyũ nĩ Mwaitũ - Aya nĩ aa mwaiTU (These (near speaker) are mothers)

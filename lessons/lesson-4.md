@@ -20,7 +20,6 @@ nininaandikiye - I wrote
 
 nuu mbĩ(u)WA yu? - can you hear me now?
 
-Ni uamukie? - Are you awake
 Ethwa - if
 
 Kalati - carrot

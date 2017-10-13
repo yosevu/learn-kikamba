@@ -5,7 +5,7 @@ ISOMO YA THANTATU – LESSONS SIX. SYINDU SYIANA – HOW MANY ARE THEY?
 
 Alyula - translate
 4 - inya
-48 mingo ina na nyana
+48 miongo ina na nyana
 
 ngitĩ ndaaSA - an old dog
 mbaka ndwau - a sick cat
