@@ -1,65 +1,74 @@
-**ĩka** do
-
-(?) **-nenga** give
-
-**-ĩkala** sit
-
-(?) **-ĩthĩwa** be
-
-**-kalaa** stay, remain
-
-Kutiwa - be left
-
-Kweka - to leave/to let
-
-**-nywa** (*-nyWA*) drink
-
-**-kwatya** trap, understand
-
+# A
 **-andika** write
+**-atya** trap, understand
 
-kutwawa - to marry
+# E
+**-enda** go
+**-eka** to leave/to let
+**-ete** to bring
 
-kukwa - die
-Kũua - buy
-K'wa - die
-Kwĩka - do
-nĩweetiwe - has been called, died
--ndete like
-kutukethya - greet
-Kulwa - to forget
-Kutaa - to sell
-Kuma - from
+# Ĩ
+**-ĩka** do
+**-ĩkala** sit
+(?) **-Ĩthĩwa** be
+**-ima** farm, hoe, weed, plough
+**-itya** to ask/order
+**-ĩĩa** cry
 
-Kusoma
-Kuete - to bring
-Kwitya - to ask/order
 
--tethanya - help each other
+# K
+**-kalaa** stay, remain
+(?) **-kima** thrush e.g. kukima mbemba/mahindi - to ? maize
+**-kwa** die
+**-kua** carry a child e.g. kukua mwana - to carry a child
 
-Kosa - to take
+# L
+**-lwa** to forget
 
-Kumia ngua - remove
-Kuvua ngua - fua/wash
-Kusuvia mutumia - to take care
-Kuuta kiwu - to draw water
-Kutetheesya - help
-Kuthiana - to look with are/study
-Kukima mbemba/mahindi - to thrush maize/
-Kuthukuma uvisi - to work in the office
-Kukua mwana - to carry a child
-Kuthia mbemba - to grind/saga
-Kuna ngua vasi - to iron
-Kuna ngũ - to gather firewood
-Kuna indo - to hit livestock
-Saka mayoo - brush your teeth
-Tulia nduu - kneel down
-Kuima - farming
-Kuima - hoeing/weeding/plough
-Kuthambya - wash dishes
+# M
+**-ma** be from
+**-mia** remove e.g. kumia ngua - remove clothes
 
-# Verbs
-- ũka - come
-- enda/thi - go
-- kũĩĩa - cry
+# N
+(?) **-nenga** give
+**-ndete** like
+**-nywa** (*-nyWA*) drink
+**-na vasi** iron e.g. kuna ngua vasi - to iron
+**-na ngũ** - gather firewood
+**-na indo** - hit/herd livestock
+
+# O
+**-osa** to take
+
+# S
+**-saka mayoo** brush teeth
+**-soma** read
+**-suvia** to take care of e.g. kusuvia mutumia
+
+# T
+**-tiwa** be left
+**-twawa** marry
+**-tukethya** greet
+**-taa** to sell
+**-tethanya** help each other
+**-tetheesya** help
+**-thambya** wash e.g. kuthambya ? - wash dishes
+**-thiana** - to look with are/study
+**-thia** grind e.g. kuthia memba - grind corn
+**-thukuma** work e.g. kuthukuma uvisi - to work in the office
+**-tulia nduu** kneel down
+**-thi** go
+
+# U
+**-ua** buy
+(?) **-etiwa** nĩweetiwe - has been called, died
+**-ũka** come
+**-uta** draw e.g. kuta kiwu - to draw water
+
+# V
+**-vua** wash e.g. kuvua ngua - wash clothes
+
+# W
+**-wa** die
+
 

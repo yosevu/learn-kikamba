@@ -80,6 +80,11 @@
 - ndikwiwa - hear?
 - **-nenga** give
 
+- kusaa - ?
+- maKunaa - do
+- musivi waku u ũ 
+
+
 Ni kuthithu - it is cold
 Kusisia - look - Eka nisisie - let me see/try
 Eka nzisie
