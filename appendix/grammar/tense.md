@@ -1,3 +1,25 @@
+**Organize by verb**
+
+# Tricky verbs and monosyllabic
+Eat
+Drink
+Have
+Kill
+Die
+Poop
+Come
+Go
+give
+
+
+- Want Wienda
+
+
+Ningusyokeya - I am repeating
+Nininasyokeye - I repeated yesterday
+Ninasyokeya - I repeated this morning
+Ninarudia
+
 # Present
 - wiasia ata? - What were you saying?
 
@@ -22,6 +44,12 @@ Mayumite - They are not from
 - nye ninguny(u)w
 - we nuũnywa
 
+[10/21/17, 12:41:27] Joseph Munywoki: ngwete uya
+[10/21/17, 12:43:09] Joseph Munywoki: nininasomie
+[10/21/17, 12:43:22] Joseph Munywoki: nininaiye
+[10/21/17, 12:43:32] Joseph Munywoki: nininasembie
+[10/21/17, 12:43:50] Joseph Munywoki: ninina...
+[10/21/17, 12:45:32] Joseph Munywoki: ninasomie
 
 # Habitual
 Kwĩkala - Nĩkalaa - I stay

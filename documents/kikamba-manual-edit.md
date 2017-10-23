@@ -695,7 +695,7 @@ In the Kamba tradition the family inlcues all relatives. As the children grow up
 - Kitili: Kwĩna lĩu mwaũ? 
 - Weita: Kwina ngima, nyama mũsele makũyũ na isyo. 
 - Kitili: Ndetee ngima na nyama. 
-- Weita: Na wĩenda kũnywa kyaũ? 
+- Weita: Na wĩenda kũnywa kyaũ?
 - Kitili: Wĩna sota mũthithu. 
 - Weita: Ĩi. 
 - Kitili: Aaya. Ndetee sota wa fanta mũthithu. 
@@ -704,29 +704,29 @@ In the Kamba tradition the family inlcues all relatives. As the children grow up
 
 ## Dialogue B
 
-- Kilonzo: Kũilyi ata mwanake? 
-- Weita: Ni kũseo. Niweetya Iiu? 
+- Kilonzo: Kũilyi ata mwanake? (How is it going boy?)
+- Weita: Ni kũseo. Niweetya Iiu? (It's good. )
 - Kilonzo: Aiee ndinetya. 
-- Weita: Wĩya kĩ? 
+- Weita: Wĩya kĩ? (What are you eating?)
 - Kilonzo: Ndetee maluu na nyama ya mbui.
-- Weita: Na wĩnywa kyau? 
-- Kilonzo: Wĩna ukĩ muthithu? 
-- Weita: Ĩĩ wĩnywa wĩku? 
-- Kilonzo: Ndetee tusker nthithu; na gilasi. 
-- Weita: Osa. 
-- Dick: Weita, ndetee mũnyũ. 
-- Kilonzo: Ĩĩ kwata.
+- Weita: Na wĩnywa kyau?  (And what are you drinking?)
+- Kilonzo: Wĩna ukĩ muthithu? (Do you have cold beer?)
+- Weita: Ĩĩ wĩnywa wĩku? (Yes, which do you want?)
+- Kilonzo: Ndetee Tusker nthithu; na gilasi. (Bring me a cold Tusker)
+- Weita: Osa. ()
+- Dick: Weita, ndetee mũnyũ. (Waiter, please bring me salt)
+- Kilonzo: Ĩĩ kwata. (Yes, here it is.)
 
 ## Read aloud - Soma kwa wasya munene
 
-1. Wĩenda lĩu mwaũ? 
-2. Wĩenda matumbĩ. 
+1. Wĩenda lĩu mwaũ? (What do you want to eat?)
+2. Wĩenda matumbĩ. (You want eggs.)
 3. Wĩenda kyavati. (upward tone) Chapati
-4. Eenda ngũkũ. 
-5. Nĩenda kyai. 
-6. Eenda sota mũthithu. 
-7. Nĩweetya ĩiu/ĩyu? 
-8. Ĩĩ nĩneetya. - Yes, I ordered. 
+4. Eenda ngũkũ. (He/she wants chicken.)
+5. Nĩenda kyai. (I want tea.)
+6. Eenda sota mũthithu. (He/she wants a cold soda.)
+7. Nĩweetya ĩiu/ĩyu?  (Did you ask for/order milk?)
+8. Ĩĩ nĩneetya. - Yes, I asked for it/ordered it. 
 9. Nĩweetya. 
 10. Ndetee kyai. 
 11. Muetee ũsũũ - bring him/her porridge. 
@@ -744,7 +744,7 @@ In the Kamba tradition the family inlcues all relatives. As the children grow up
 23. Nĩĩwa wauni - I am thirsty
 24. Wĩĩwa nzaa - You are hungry.
 25. Eĩwa nzaa. 
-26. Nĩnamina kũya. 
+26. Nĩnamina kũya. - I have finished eating 
 27. Syana nĩsyavũna.
 
 ## Vocabulary
@@ -772,29 +772,81 @@ In the Kamba tradition the family inlcues all relatives. As the children grow up
 
 **-ĩwa** hear, feel
 
+Nĩĩwa nzaa I'm hungry (feel hungry) - 
+Ndetee Bring me Tuetee 
+Muetee Bring him/her Maetee 
+Nenge Give me Tunenge 
+Kwĩna There is 
+Tũnga Return (something) 
+Osa Take 
+Kwata Hold it, have it. 
+Nĩnavũna I'm full, satisfied 
 
-39
-* * *
+## Grammar _-a_ (present perfect)
+The grammar in this lesson is the immediate past tense. It refers to an action which has just taken place. Some tiems it is used to express something as “complete in thought but not in action.” The tense particle is _a_ and it is mutable:
 
-Nĩĩwa nzaa I‟m hungry (feel hungry) - Ndetee Bring me Tuetee Muetee Bring him/her Maetee Nenge Give me Tunenge Kwĩna There is Tũnga Return (something) Osa Take Kwata Hold it, have it. Nĩnavũna I‟m full, satisfied GRAMMAR EXPLANATION: The grammar in this lesson is the immediate past tense. It refers to an action which has just taken place. Some tiems it is used to express something as “complete in thought but not in action.” The tense particle is „a‟ and it is mutable.
+**NĩnaYA** I have eaten.
+**NdinaYA** I haven't just eaten. 
+**Nĩnasoma** I have just read. 
+**Ndinasoma** I haven‟t just read. 
+**Nĩnavuna** I have just full/satisfied. 
+**Ndinavuna** I'm not full/satisified 
+**Nĩnathi** I've gone/I‟m gone.
+**Ndinathi** I haven't gone
 
-Examples: Nĩnaya - I have just eaten. Ndinaya - I haven‟t just eaten. Nĩnasomaa - I have just read. Ndinasoma - I haven‟t just read. Nĩnavuma - I have just full/satisfied. Ndinavuna - I‟m not full/satisified Nĩnathi - I‟ve gone/I‟m gone.
+He/She
+You all
+You
+We
+They
 
-Sometiems we say this yet still standing thus expressing a verb complete in thought but not in action.
+Note: Sometimes we say this yet still standing thus expressing a verb complete in thought but not in action.
 
-EXERCISE ONE: TURN THE FOLLOWING SENTENCES INTO NEGATIVE: 1\. Nĩnanya Iĩu mwingĩ. 2\. Nĩneetya Iĩu. 3\. Nĩtwaya. 4\. Nĩmasoma mavuku maseo. 5\. Nĩenda kuya ĩkuyu na maluu. 6\. Aamelika maya Iĩu na moko. 7\. Nĩenda kuya ngima na yĩia. 8\. Monicah eetya ĩsaani yĩmwe ya muthokoi. 9\. Nĩnathi Ilovi. 10\. Nĩnamina kuya Iĩu wakwa.
+## Exercise 1 - Negate sentences
+1. **Nĩnaya lĩu mwingĩ.** 
+2. **Nĩneetya lĩu**. - I have asked for food.
+3. **Nĩtwaya.** - I have eaten.
+4. **Nĩmasoma mavuku maseo.** - I have just read good books
+5. **Nĩenda kuya ĩkuyu na maluu.** - I want to eat fish and potatoes.
+6. **Aamelika (name) maya (they have eaten) lĩu na (kwoko) moko (hand/hands). 
+7. Nĩenda kuya ngima na ĩia (milk). 
+8. Monicah eetya (aĩsaani yĩmwe  ya muthokoi (thrased maize/homini).
+9. Nĩnathi Ilovi. 
+10. Nĩnamina kuya lĩu wakwa. - I have finished eating my food
 
-EXERCISE TWO – TRANSLATE – ALYŨLA (a) I have finished eating. (b) we have played football. (c) David and Kim are satisfied (with food). (d) They have ordered cold milk and bread. (e) We have rested after working. (f) We have woken up well.
+EXERCISE TWO – TRANSLATE – ALYŨLA 
+(a) I have finished eating. 
+  - Ninamina kuya lĩu (?)
+(b) we have played football. 
+  - **Nituthaukie muvila** - We played (Kuthauka - to play)
+(c) David and Kim are satisfied (with food). 
+  - **Nimavuna**
+(d) They have ordered cold milk and bread. 
+  - **Nimeetya iia ithithu na mukate**
+(e) We have rested after working.
+  - **Nitwathumua twamina wia**
+(f) We have woken up well. 
+  **- Nitwaamka nesa**
 
-EXERCISE THREE:
+## Exercise 3 - Complete dialogue
 
-40
+Complete Dialogues:
 
+Weita: Wĩ museo customa?
+Kastoma: Ĩĩ nĩ museo. 
+Weita: Wĩenda kuya kyaũ? 
+Kastoma: Ndetee isyo na nguku
+Weita: Nuseo. Ningusyoka ...
+Kastoma: Nuseo.
+Weita: Osa liu yaku.
 
+Wienda kyau?
+Nenge ngima na sukuma
+Holetini huu, kwika kahawa kaseo muno
+Ninetikila - I agree (Kutikila)
+Ninendete - I like (Kwenda)
+Niniendete - I am going. to go (Kuenda)
 
-* * *
-
-FINISH UP THESE DIALOGUES; Weita : Wĩ museo customa. Customa : Ĩĩ nĩ museo. Weita : Wĩenda kuya kyaũ? Customa : Ndetee Weita : ______________________ Customa : ______________________ Weita : ______________________
 
 CULTURAL NOTE:
 
@@ -822,19 +874,26 @@ TOPIC: MBESA NA THOOA – MONEY AND PRICES:
 
 SOMA KWA WASYA MŨNENE – READ ALOUD
 
-II nĩ mbesa syiana?
+II nĩ mbesa siana?
 
-Isu nĩ silingi ngili ĩmwe. Isu nĩ silingi itano. Isu nĩ silingi ĩkumi.
+Isu nĩ silingi ngili ĩmwe. - That is 1000 shillings
+Isu nĩ silingi ita(a)no. 
+Isu nĩ silingi ĩkumi.
 
-John ena mbesa syiana?
+John ena mbesa siana?
 
-Ena silingi maana elĩ. Ena ndola ĩana imwe. Ena mbesa mbingĩ.
+Ena silingi maana elĩ. - He has 200 shilings 
+Ena ndola ĩana yimwe. - 100 dollar
+Ena mbesa mbingĩ. - He has a lot of money
 
-Kuu America waĩna mbesa syiana? Naĩ na ndola milioni ĩmwe. Naĩ na ndola ngili ĩmwe. Ndyaĩ na mbesa.
+Kuu America waĩna mbesa siana? - How much money did you have ini America
+Naĩ na ndola milioni ĩmwe. - I had 1 million dollars.
+Naĩ na ndola ngili ĩmwe. 
+Ndyaĩ na mbesa. - I didn't have money
 
-Ndola ĩmwe yĩna silingi syiana?
+Ndola ĩmwe yĩna silingi siana? - How many shilings in a dollar?
 
-Yĩna silingi miongo thanthatũ. Yĩna silingi mĩongo nyaanya. Yĩna silingi mĩongo ĩtano na sumunĩ.
+Yĩna silingi miongo thanthatũ. Yĩna silingi mĩongo nyaanya. Yĩna silingi mĩongo ĩtano na sumunĩ. 50.50
 
 42
 
@@ -842,31 +901,42 @@ Yĩna silingi miongo thanthatũ. Yĩna silingi mĩongo nyaanya. Yĩna silingi m�
 
 * * *
 
-Mwalimũ ena mbesa syiana?
+Mwalimũ ena mbesa siana? - How much is this money
 
-Ena mbesa nini? Ndena mbesa. Ena mangotole elĩ na ndululu.
+Ena mbesa nini? 
+
+Ndena mbesa. 
+
+Ena mang'otole elĩ na ndululu. - She/he has .25
 
 Wina mbesa syiana?
 
-Nĩna silingi itano. Nĩna mangotole thanthatũ. Nĩna silingi mũonza. Muasya ena mbesa syiana?
+Nĩna silingi itano. Nĩna mangotole thanthatũ. Nĩna silingi mũonza. 
+Muasya (male) ena mbesa siana?
+Ena noti ya silingi ĩana. 
+Ena noti ya silingi miongo ĩlĩ (thing class). 
+Ena noti ya silingi mĩongo itano.
 
-Ena noti ya silingi ĩana. Ena noti ya silingi miongo ĩlĩ. Ena oti ya silingi mĩongo itano.
+Iyoo unaĩ na mbesa siana?
 
-Iyoo unaĩ na mbesa syiana?
+Nĩnaĩ na silingi ĩana. Nĩnaĩ na ndola milioni ĩmwe. Nĩnaĩ na mbesa nyingĩ.
 
-Ninaĩ na silingi ĩana. Nĩnai na ndola milioni ĩmwe. Nĩnaĩ na mbesa nyingĩ.
+Ũnĩ ũkeethĩwa na mbesa siana? - How much money will you have tomorrow?
 
-Ũni ũkeethiwa na mbesa syiana?
+Ngeethĩwa na mbesa nini. - nini (small)
 
-Ngeethĩwa na mbesa nini. Ngeethĩwa na ngili itano. Ndikethĩwa na mbesa
+Ngeethĩwa na ngili itano. Ndikethĩwa na mbesa
 
-Waĩ na kyaũ Amerika?
+Waĩ na kyaũ Amerika? (far past)
 
-Naĩ na ngali nzeo. Naĩ na muunda munene. Naĩ na syana ilĩ.
+Naĩ na ngalĩ nzeo. Naĩ na mũũnda munene. Naĩ na siana ilĩ (human).
 
 VOCABULARIES:
 
 Singular Plural English Mbesa Mbesa Money Noti Noti Note Silingi Silingi Shilling Sumuni Sumuni Fifty cent coin Ing‟otole Mang‟otole A ten cent coin Ndululu Ndululu Afive cent coin Nĩna - I have Wĩna - You have Ena - He/she has Ndola Ndola Dollar Nĩnaĩ na - I had (yesterday) Nai na - I had (long ago) Ngeethĩwa na - I will have
+
+Nininywe
+Nĩĩna - I just had a moment ago.
 
 GRAMMAR EXDPLANATION:
 
@@ -880,59 +950,82 @@ Possessive Suffix “NA”
 
 The Suffix – „NA‟ when put together with subject prefixes in a particular noun class, in Kikamba denotes possession. It is equivalwent to the verb “have/has” in English. Literally it means “to be with.” It also expresses a state of a person or a thing.
 
-Examples: Nĩna mbesa. - I have money Wĩna syana. - You have children. Ena saa. - He/she has a watch. Ndina ivuku. - I don‟t have a book. Ndwina ngalĩ. - You don‟t have a vehicle. Ndena kalamu. - He/she doesn‟t have a pen Nĩna nzaa. - I am hungry. Ena utanu - He‟s happy.
+Examples: Nĩna mbesa. - I have money Wĩna siana. - You have children. Ena sAA. - He/she has a watch. Ndina ivuku. - I don‟t have a book. Ndwina ngalĩ. - You don‟t have a vehicle. Ndena kalamu. - He/she doesn‟t have a pen Nĩna nzaa. - I am hungry. Ena utanu - He‟s happy.
 
 In past and future tenses to have is expressed as follows:
 
-Ninaĩ na - (Yesterday) I have Ngeethĩwa na - I‟ll have
+Nĩnaĩ na - (Yesterday) I have Ngeethĩwa na - I‟ll have
+Nĩĩna - I had (just)
 
-Examples: Iyoo nĩnaĩ na mbesa - Yesterday I had money. Unĩ ngeethiwa na mbesa - Tommorrow I‟ll have money. Iyoo nĩnaĩ na nzaa - Yesterday I was hungry. Unĩ ngeethĩwa na nyumba - Tommorrow I‟ll have a house.
+Examples: ĩyoo nĩnaĩ na mbesa - Yesterday I had money. Unĩ ngeethiwa na mbesa - Tommorrow I‟ll have money. ĩyoo nĩnaĩ na nzaa - Yesterday I was hungry. Unĩ ngeethĩwa na nyumba - Tommorrow I‟ll have a house.
 
-Kĩkombe kĩna kĩwu. - The cup has water) Ikombe syĩna kĩwu. - Cups have water ) kii class
+Kĩkombe kĩna kĩwU (upward tone). - The cup has water) Ikombe syĩna kĩwu. - Cups have water ) kii class
 
 Itunda yĩna muyo. - The fruit (has) is sweet) Matunda mena muyo. - The fruits are sweet ) I/Ma Class
 
-EXERCISE ONE SŨNGĨA MAKŨLYO NA – ANSWER THESE QUESTIONS.
+EXERCISE ONE SŨNGĨA MAKŨLYO AA – ANSWER THESE QUESTIONS.
 
-1\. Umuthĩ wĩna wĩa mwingĩ? Ĩĩ _______________________________. 2\. Moses ena mbesa umunthĩ Aiee _______________________________. 3\. Wĩna nzaa? Ĩĩ _______________________________. 4\. Mwana uya ena kalamu? Aiee _______________________________. 5\. Syana syĩna Iĩu? Ĩĩ _______________________________. 6\. Kĩkombe kĩna kĩwũ? Aiee _______________________________. 7\. Nyũmba yĩna mũango? Ĩĩ _______________________________. 8\. Mwalimu ena wauni? Aiee _______________________________. 9\. Umũnthĩ wina ndawa? Aiee_______________________________. 10\. Kiio ena nduka? Ĩĩ _______________________________.
+1\. Umuthĩ wĩna wĩa mwingĩ? 
+  - Ĩĩ, nĩna wia 
+2\. Moses ena mbesa umunthĩ 
+  - Aiee ndena
+3\. Wĩna nzaa? 
+  - Ĩĩ nĩna nzaa
+4\. Mwana uya ena kalamu?
+  - Aiee ndena
+5\. Siana syĩna lĩu? 
+  - Aiee mena liu
+  - Ĩĩ siina liu
+6\. Kĩkombe kĩna kĩwũ? 
+  - Aiee kĩina kĩwũ 
+7\. Nyũmba yĩna mũango (door)? 
+  - Nyũmba ndina mũango It doesn't
+  - Aiee yĩina mũango. It doesn't
+8\. Mwalimu ena wauni (thirst)? 
+  - Aiee ndena
+9\. Umũnthĩ wina ndaWA? 
+  - Aiee ndĩna ndawa. 
+10\. Kiio ena nduka? 
+  - Ĩĩ ena
 
-EXERCISE TWO:
+## Exercise 2:
 
-44
-
-
-
-* * *
-
-Use the possessive suffix Na in present, past and future (both positive and negative) to fill in the gaps.
+Use the possessive _na_ in present, past and future (both positive and negative) to fill in the gaps.
 
 Examples:
 
-Ĩyoo ndinaaya nũndũ _____________________________________ Iiu. Ĩyoo ndinaaya nundu na Iiu.
+Ĩyoo ndineeya nũndũ ndinai na liu. 
+Ĩyoo ndineeya nũndũ na Iiu. Yesterday I did not eat because I didn't have food.
 
-1\. Iyoo ndineeuka nundu ______________________ wia mwingi. 2\. Ndyĩsĩ nĩ saa syiana __________________________ saa. 3\. Ndanaua nyama nundu ____________________________ mbesa. 4\. Mwana uyu ______________________________ nzaa. Enenda Iiu. 5\. Uni ____________________________ mbesa mbingi. Ngathi Ilovi.
+1\. Iyoo ndineeuka nundu wa wia mwingi. Yesterday I didn't come because I was working a lot.
+2\. Ndĩsĩ nĩ saa siana nundu ndina saa.
+3\. Ndanaua nyama nundu ndena mbesa. He/she doesn't cook because no money
 
-EXERCISE THREE:
+4\. Mwana uyu (Mwanoyu) ena nzaa. Enda liu.  That child is hungry. He wants to eat. (I want) Aenda (he goes)
+5\. Uni ngeethiwa na mbesa mbingi. Ngathi (I will go to) Ilovi. Tomorrow I will have a lot of money. I will go to Nairobi (?)
+
+# #Exercise 3:
 
 Change these sentences into negatives: Examples:
 
-1\. Nĩna wĩa mwingĩ – Ndina wia mwingi. (a) Mwaitũ ena syana nyingi. (b) Nĩna saa nzeo. (c) Wĩna mwalimũ mũseo. (d) Uni kũkeethĩwa na mbua. (e) Mwana ũyũ nĩ mũwau. Ena ndetema. (f) Umunthĩ kwĩna mbua. (g) Ithyĩ twĩna mbesa mbingĩ. (h) Ũmũnthĩ nĩngunywa kyai nũndũ nĩna sukali.
+Nĩna wĩa mwingĩ – Ndina wia mwingi. 
+(a) Mwaitũ ena siana nyingi. - Mwaitũ ndena siana nyingi. 
+(b) Nĩna saa nzeo. - Ndina
+(c) Wĩna mwalimũ mũseo. - Ndwina mwalimu museo
+(d) Uni kũkeethĩwa na mbua. - Uni kuikeethiwa na mbua Tomorrow there will be rain/there will not be
+(e) Mwana ũyũ nĩ mũwau. Ena ndetema. - This child is sick. He has malaria.
+(f) Umunthĩ kwĩna mbua. - kuina mbua 
+(g) Ithyĩ twĩna mbesa mbingĩ. - We tuina
+(h) Ũmũnthĩ nĩngunywa kyai nũndũ nĩna sukali. - ndiunywa (present tense) kyai nundu ndina sukali.
+Ndikanywa - I will not drink
 
-EXERCISE FOUR: Ena kyau? – What does he/she have?
+## Exercise 4: Ena kyau? – What does he/she have?
 
-45
-
-
+_Pictures_
 
 * * *
 
-46
-
-
-
-* * *
-
-ISOMO YA IKUMI – LESSON TEN:
+# Isomo ya Ikumi - Lesson Ten
 
 TOPIC:
 
@@ -947,8 +1040,6 @@ DIALOGUE A: Mutinda : Mwaitũ wi mũseo? Mũthoosya : Iĩ nĩkũseo. Wĩenda kũ
 DIALOGUE B: Kilonzo : Ũvoo waku mwanake. Mũthoosya : Nĩ mũseo wĩenda kũũa kyaũ? Kilonzo : Nĩenda mũsele. Wĩta ata? Mũthoosya : Kilo kĩmwe nĩ silingi miongo ilĩ. Kilonzo : Wĩta vinya ũu nĩki? Mũthoosya : Usu ti thooa mũthũku. Wĩenda kũthooa kwa mbesa syiana? Kilonzo : Nina silingi ĩkumi na itano.
 
 47
-
-
 
 * * *
 

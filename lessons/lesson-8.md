@@ -14,7 +14,7 @@ wiku? - which one
 munyu - salt
 kiwoo kivyu - hot water
 mituki vyu - very quickly
-nikuthihu - it is cold
+nikuthithu - it is cold
 
 **-iiwa** - to feel, hear
 **wiiwa** - how do you feel?
@@ -31,4 +31,5 @@ kuthitha - to be cold
 
 **-lilikana** remember
 Ndiulilikana - I don't remember
-Nilikana - I don't know
+Nilikana - I remember
+

@@ -1,3 +1,5 @@
+kwata - hold it/have it
+
 # A
 **-andika** write
 **-atya** trap, understand
@@ -14,13 +16,14 @@
 **-ima** farm, hoe, weed, plough
 **-itya** to ask/order
 **-ĩĩa** cry
-
+**-ĩwa** hear, feel
 
 # K
 **-kalaa** stay, remain
 (?) **-kima** thrush e.g. kukima mbemba/mahindi - to ? maize
 **-kwa** die
 **-kua** carry a child e.g. kukua mwana - to carry a child
+kwata - shika
 
 # L
 **-lwa** to forget
@@ -28,6 +31,7 @@
 # M
 **-ma** be from
 **-mia** remove e.g. kumia ngua - remove clothes
+**mina** finish
 
 # N
 (?) **-nenga** give
@@ -56,8 +60,10 @@
 **-thiana** - to look with are/study
 **-thia** grind e.g. kuthia memba - grind corn
 **-thukuma** work e.g. kuthukuma uvisi - to work in the office
+**-thauka** play e.g. Nituthaukie muvila - We played ball
 **-tulia nduu** kneel down
 **-thi** go
+**-tunga** return, give back (something)
 
 # U
 **-ua** buy
@@ -67,8 +73,15 @@
 
 # V
 **-vua** wash e.g. kuvua ngua - wash clothes
+**-vũna** be full, be satisfied
+
 
 # W
 **-wa** die
 
+# Y
+**-ya** eat 
+
+
+Osa vs kwata
 

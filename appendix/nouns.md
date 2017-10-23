@@ -1,7 +1,13 @@
 # Pronouns
 - -aku e.g. waku
 
-# Nouns
+Nenge manzi - sperm/water
+
+**kavyũ** (tuvyu) knife
+
+**ĩsaani** (masaani) plate 
+
+**mũkaawa** (mikaawa) restaurant 
 
 # School
 - Ithangu - page
@@ -20,7 +26,7 @@
 - mũsele - Misele
 - ĩlondu/malondu - kondoo
 - kĩw(u)ũ - water
-- ĩtumbĩ/matumbĩ
+- ĩtumbĩ/matumbĩ - eggs
 - ĩkũnũũ/makunũ - mushroom
 - lĩu - food
 - ĩiu/maiũ - banana
@@ -28,7 +34,9 @@
 - ĩluu/maluu (potato)
 - ĩlenge/malengu (pumpkin)
 - ĩkwasĩ/makwasĩ (sweet potatoes/root tubers e.g. onion)
-- usũũ/masuu
+- usũũ/masuu - poridge
+- munyu - salt
+
 
 ## Animals
 - ĩkũyũ/makũyũ (fish)
@@ -37,13 +45,13 @@
 - mwinthoi - worm
 
 ## Nature
-- ĩlĩma (mountain)
+- ĩlĩma/ĩlĩma (mountain)
 
 ## Time and Date
 - ũmũnthi - today
 - ĩyoo - yesterday
 - unĩ - tomorrow
-- Aũke - the day after tomorrow
+- aũke - the day after tomorrow
 - Iso - the day before yesterday
 
 # People
@@ -51,16 +59,16 @@
 - inya wakwa (not inyia wakwa) - My mother
 - kusya/kusyawa - bare
 - usyao - offspring
+- nau - father (my father)
 - au - father (someone else saying)
 - mwiitu a ia etawa Mukonyo - my sister is called Mukonyo
 - mwana saa - my brother
 - maama - uncle
-- andu ma musyi wakwa - people in my family
+- mundu/andu - andu ma musyi wakwa - people in my family
 - kavĩsĩ - boy
 - ũsyao - family
 - ithe - father (someone elses father)
 - mzazi - male/female parent
-- nau - father (my father)
 - inyakwa - mother
 - mũkũũa - older sibling (brother/sister)
 - mũinawa - younger sibling (brother/sister)
@@ -74,30 +82,15 @@
 - mwĩsũkũũwa 
 - iatũ sya mũkalya - tyre sandals
 
-# Review
-- musivi
-- kĩvĩ
-- ndikwiwa - hear?
-- **-nenga** give
-
-- kusaa - ?
-- maKunaa - do
-- musivi waku u ũ 
-
-
 Ni kuthithu - it is cold
 Kusisia - look - Eka nisisie - let me see/try
 Eka nzisie
-
-Eka noone - let me see
 
 Tiwai -
 
 Inaendie ata?
 Inaendie nesa
 
-Ningusyokeya - I am repeating
-Nininasyokeye - I repeated yesterday
-Ninasyokeya - I repeated this morning
-Ninarudia
+
+
 
