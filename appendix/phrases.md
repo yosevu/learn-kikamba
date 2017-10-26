@@ -8,12 +8,14 @@
 
 ## Communication
 - **Nuu mbĩ(u)WA yu?** Can you hear me now?
-- Twiambie va - where should we start?
+- Twambiie va - where should we start?
 - Are you ready? - 
 - Tell me when you are ready - 
 - Ninavuna - I am full
 - MukaAwa
 - Nukuka wioo? Will you come tonight?
+- Waasya ata? - What did you say?
+- Wiasia ata - What are you saying?
 
 ## Directions
 - **ĩkala kĩvĩlani** Sit on the chair.
@@ -50,6 +52,7 @@ Ukenuka kyumwa kii? - Will you come this weekend
 - niniaandikiye - I wrote
 - Ndiokuona - I can't see you
 - Nditonya - I can't (Kutonya)
+ndwakila - you have jumped/skipped ( kukila )
 
 Niniamukie nye - I have awoken
 Aaya, ndutinde nesa - You have a good day
@@ -57,6 +60,7 @@ ii Ti nuseo
 Tukaendeye ĩtina - we will continue later
 Tuungame vau - Let's stand/stop there
 Tuminie thau - Let's finish there
+Tun
 Ndiumanya - I don't understand
 Davida ingi - tell me again
  - Ndiolwa - I forgot/have forgotten

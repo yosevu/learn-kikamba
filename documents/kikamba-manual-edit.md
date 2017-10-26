@@ -1023,21 +1023,43 @@ Ndikanywa - I will not drink
 
 _Pictures_
 
+Muvila - ball
+kiatu/siatu - shoes
+sati - shirt
+ndoo - bucket
+ngiti - dog
+Ana etuma vulana - sew a sweater
+
 * * *
 
-# Isomo ya Ikumi - Lesson Ten
+# Isomo ya Ikumi - Lesson Ten: Kuthooa
+Selling nĩ mbesa sĩana? – How mush money is it?
 
-TOPIC:
+## Dialogue A
+Mutinda: Mwaitũ wi mũseo? 
+Mũthoosya: Iĩ nĩkũseo. Wĩenda kũthooa kyaũ? 
+Mutinda: Nĩenda kũthooa sati. Nĩ mbesa syiana? 
+Mũthoosya: Sati nĩ silingi maana elĩ na mĩongo ĩtano. 
+Mutinda: Ũsu nĩ thooa mũnene mũno. Nthooesya sati nesa.
+  Sell it at a good prise (nicely)
+Mũthoosya: Usu nĩ thooa munini. Wienda kuiva (kulipa) mbesa syiana? 
+Mutinda: Nyie nĩna silIngi iana yĩmwe. Ndina mbesa ingĩ. 
+  I don't have more money
+Mũthoosya: Ongela silingi miongo itano. Ino ni sati nzaũ.
+  Increase 50 shillings.
+  It's a new shirt.
+Mutida: Aaya. Kwata. 
+Mũthoosya: Nĩ mũvea.
 
-KUTHOOA/SHOPPING/NĨ MBESA SYĨANA? – HOW MUCH IS IT?
-
-COMPETENCY:
-
-PURCHASING ITEMS;
-
-DIALOGUE A: Mutinda : Mwaitũ wi mũseo? Mũthoosya : Iĩ nĩkũseo. Wĩenda kũthooa kyaũ? Mutinda : Nĩenda kũthooa sati. Nĩ mbesa syiana? Mũthoosya : Sati nĩ silingi maana elĩ na mĩongo ĩtano. Mutinda : Ũsu nĩ thooa mũnene mũno. Nthooesya sati nesa. Mũthoosya : Usu nĩ thooa munini. Wienda kuiva mbesa syiana? Mutinda : Nyie nĩna silingi iana yĩmwe. Ndina mesa ingĩ. Mũthoosya : Ongela silingi miongo itano. Ino ni sati nzaũ. Mutida : Aaya. Kwata. Mũthoosya : Nĩ mũvea.
-
-DIALOGUE B: Kilonzo : Ũvoo waku mwanake. Mũthoosya : Nĩ mũseo wĩenda kũũa kyaũ? Kilonzo : Nĩenda mũsele. Wĩta ata? Mũthoosya : Kilo kĩmwe nĩ silingi miongo ilĩ. Kilonzo : Wĩta vinya ũu nĩki? Mũthoosya : Usu ti thooa mũthũku. Wĩenda kũthooa kwa mbesa syiana? Kilonzo : Nina silingi ĩkumi na itano.
+## Dialogue B
+Kilonzo: Ũvoo waku MWAnake. 
+Mũthoosya: Nĩ mũseo wĩenda kũũa (to buy) kyaũ?
+Kilonzo: Nĩenda mũSEle. Wĩta aTA? (how do you sell it?)
+Mũthoosya: Kilo kĩmwe nĩ silingi miongo ilĩ. 
+Kilonzo: Wĩta vinya ũu nĩki (why)? - Why do you sell it at a high/strong price
+Mũthoosya: Usu ti thooa (price) mũthũku. Wĩenda kũthooa kwa mbesa siana? 
+  - You want to buy for how much money.
+Kilonzo: Nina silingi ĩkumi na itano.
 
 47
 
@@ -1045,29 +1067,32 @@ DIALOGUE B: Kilonzo : Ũvoo waku mwanake. Mũthoosya : Nĩ mũseo wĩenda kũũa
 
 Mũthoosya : Aiee. Nĩngũkwata ngalama. Kilonzo : Eka ngũnenge silingi ĩkũmi na thanthatũ kwa kilo kĩmwe. Mũthoosya : Aiee. Ongela silingi ĩmwe. Kilonzo : Kwata. Mũthoosya : Nũu. enda nesa. Kilonzo: : Tiwa nesa. READ ALOUD:
 
-Wĩta ata mũsele? Wĩta ata mboso? Wĩta ata mbemba?
+Wĩta ata mũseLE? - How much are you selling
+Wĩta ata mboso? - Beans
+Wĩta ata mbemba? - Maize
 
-Wĩthoosya kyaũ?
+Wĩthoosya kyaũ (rising)?
+nthooesye kina - sell something
 
 Nĩthoosya mboka. Nĩthoosya matunda. Nĩthoosya ngũa.
 
-Musele kilo kĩmwe nĩ mbesa syiana? Nĩ silingi mĩongo ĩlĩ. Nĩ silingi mĩongo itatũ. Nĩ silingi mĩongo ĩtano.
+Mus(ee)ele kĩlo kĩmwe nĩ mbesa siana? Nĩ silingi mĩongo ĩlĩ. Nĩ silingi mĩongo itatũ. Nĩ silingi mĩongo ĩtano.
 
-Wĩta ata maluuu?
+Wĩta ata maluu?
 
-Nĩthoosya silingi ĩana kwa ĩleve. Nĩthoosya silingi mĩongo keenda kwa ĩleve. Nĩthoosya silingi ĩkumi kwa kilio.
+Nĩthoosya silingi ĩana kwa ĩleve (debe moja one can/container). Nĩthoosya silingi mĩongo keenda kwa ĩleve. Nĩthoosya silingi ĩkumi kwa kilio (small mbakuli / bakuli.
 
-Wĩthoosya ata ĩsungwa?
+Wĩthoosya ata ĩsungwa? - How are you selling (how much)?
 
 Nĩ silingi ĩana. Nĩ silingi ĩkumi.
 
 Usu nĩ thooa mũnene. Usu nĩ thooa mũnini. Usu nĩ thooa mũseo.
 
-Nĩta ngũa laisi mũno. Wĩta ngũa vĩnya muno. Eta ngũa nesa.
+Nĩta ngũa laisi (raisi/cheap) mũno. Wĩta ngũa vĩnya (high/expensive) muno. Eta (he sells) ngũa nesa (vizuri). - Anuza 
 
-Thooa wa Iĩu nũvandie. Thooa wa matunda nũvalukile. Ethiwa nũtonya, theesya thooa vanini.
+Thooa wa lĩu nũvandie (panda/gone up). Thooa wa matunda nũvalukiLE (kuvaluka - request to lower). Ethiwa nũtonya (if it is possible), theesya (punguza/lower) thooa vanini.
 
-theesya silingi ilĩ. theesya silingi itano. ola silingi ũmwe. ongela silingi ũmwe.
+theesya silingi ilĩ. theesya silingi itano. ola (reduce) silingi ũmwe. ongela (ongeza) silingi ũmwe.
 
 48
 

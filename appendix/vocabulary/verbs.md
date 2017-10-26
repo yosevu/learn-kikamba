@@ -3,6 +3,7 @@ kwata - hold it/have it
 # A
 **-andika** write
 **-atya** trap, understand
+**-asya** say (kwasya)
 
 # E
 **-enda** go
@@ -24,6 +25,9 @@ kwata - hold it/have it
 **-kwa** die
 **-kua** carry a child e.g. kukua mwana - to carry a child
 kwata - shika
+kũũa - buy
+kũwa - cook
+
 
 # L
 **-lwa** to forget
@@ -53,9 +57,10 @@ kwata - shika
 **-tiwa** be left
 **-twawa** marry
 **-tukethya** greet
-**-taa** to sell
+**-ta** sell e.g. Wĩta aTA?
 **-tethanya** help each other
 **-tetheesya** help
+-thoosya - sell
 **-thambya** wash e.g. kuthambya ? - wash dishes
 **-thiana** - to look with are/study
 **-thia** grind e.g. kuthia memba - grind corn
@@ -64,6 +69,7 @@ kwata - shika
 **-tulia nduu** kneel down
 **-thi** go
 **-tunga** return, give back (something)
+**-tuma** sew
 
 # U
 **-ua** buy

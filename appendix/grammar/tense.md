@@ -1,18 +1,41 @@
+
 **Organize by verb**
+## Tenses
+1. **Present (Progressive)**
+
+2. ****
+
+3. **Past (Yesterday)**
+
+4. **Past (Distant)**
+
+5. **Future**
+
+
+
+## Monosyllabic verbs
+
+### Other verbs
+eat
+drink
+have
+kill
+die
+poop
+come
 
 # Tricky verbs and monosyllabic
-Eat
-Drink
-Have
-Kill
-Die
-Poop
-Come
-Go
+go
 give
+want e.g. wiend
 
+Tunaminiye - We finished farther past
 
-- Want Wienda
+mbite undeeye - calling me
+ndeye - sell to me / ta kalamu - sell pen
+
+Wita - sell
+Witawa - call
 
 
 Ningusyokeya - I am repeating
@@ -32,14 +55,54 @@ Ndaumite - He/She is not from
 Muyumite - You all are not from
 Mayumite - They are not from
 
+## Come
+- ninguka
+- nukaa kwakya - usually
+- nukie umunti -  recent past
+- ninookie iyoo - yesterday
+- ngooka uni - will 
+
+## Be
+- ni mutanu
+- nithiwa nimutanu - habitually
+- niimutanu - recent past
+- naimutanu
+- ngatana
+
+## Have
+
+- nina mbunguo - I have keys
+- nithiawa na mbunguo
+- niina na mbunguo - I had recent past
+- ninai na- I had yesterday
+- ngeethwa na - I will
+
 ## Eat
-- nye ninguya 
+
+- nye ninguya - I am eating
+- Niisaa ngima - I eat (habitually) ugali
+- ninaya - I have just eaten
+- niniiye ngima umunthi - I have recently (today) ate ugali
+- ninaiye/nininaye - I ate (yesterday)
+- ngaya - I will eat
+
+
 - we nũũya
 - nake nũkuya
 - inwyi ni muya
 - meya / ni meuya - they are eating
 
 ## Drink
+
+- ningunywa - I am drinking
+- nininyusaa - habitually
+- ninanywa
+- niniinyite - I have recently (recent past)
+- nininanywie - I drank today
+- nganywa
+
+
+
 - meny(u)wa - they are drinking
 - nye ninguny(u)w
 - we nuũnywa
