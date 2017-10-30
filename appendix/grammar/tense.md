@@ -56,11 +56,11 @@ Muyumite - You all are not from
 Mayumite - They are not from
 
 ## Come
-- ninguka
-- nukaa kwakya - usually
-- nukie umunti -  recent past
-- ninookie iyoo - yesterday
-- ngooka uni - will 
+- ninguka - I am coming
+- nukaa kwakya - I come (usually)
+- nukie umunti - I came (recent past)
+- ninookie iyoo - I came (yesterday)
+- ngooka uni - I will come
 
 ## Be
 - ni mutanu
@@ -80,12 +80,11 @@ Mayumite - They are not from
 ## Eat
 
 - nye ninguya - I am eating
-- Niisaa ngima - I eat (habitually) ugali
+- Niisaa ngima - I eat (habitually)
 - ninaya - I have just eaten
 - niniiye ngima umunthi - I have recently (today) ate ugali
 - ninaiye/nininaye - I ate (yesterday)
 - ngaya - I will eat
-
 
 - we nũũya
 - nake nũkuya
@@ -93,14 +92,50 @@ Mayumite - They are not from
 - meya / ni meuya - they are eating
 
 ## Drink
-
 - ningunywa - I am drinking
 - nininyusaa - habitually
-- ninanywa
+- ninanywa - (?)
 - niniinyite - I have recently (recent past)
-- nininanywie - I drank today
-- nganywa
+- nininanywie - I drank (past e.g. yesterday)
+- nganywa - I will drink
 
+## Want
+- nienda - niEEnda kuua
+- nithwaa - I usually want e.g. nithwaa ngyenda kuua kyai
+- niendaa - I wanted (recent past)
+- ninendaa - I wanted past (distant past)
+- ngetha ngyenda - I will want
+
+## Go
+- nienda - I'm going to make
+- nithi / ninguthi (?) / nienda I am going
+- nithiawa ngithi sukulu tene - I go (habitually)
+- niendaa ukoma tene - I go to bed early
+- niniendie - I went this morning (recent past)
+- nininaendie - I went (distant past)
+- ninaendie - I have gone
+- ngathi - I will go
+
+- nienda uthi / ninguthi - I want to go
+- niendie kũua kyai - I went to cook tea
+
+## Cook
+
+## Buy
+
+## Kill
+
+## Give
+
+## Hear
+
+## See
+
+## Cry
+
+## Do
+
+## Sit
 
 
 - meny(u)wa - they are drinking

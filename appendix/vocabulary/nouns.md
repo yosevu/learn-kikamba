@@ -44,6 +44,9 @@ Nenge manzi - sperm/water
 - ĩlondu/malondu (sheep)
 - mwinthoi - worm
 
+## Clothing
+**ngũa** clothes
+
 ## Nature
 - ĩlĩma/ĩlĩma (mountain)
 

@@ -6,6 +6,8 @@
 
 **-vyũ** hot e.g. kiwoo kivyu
 
+**vinya** high, strong
+
 **-thithu** cold e.g. nikuthithu 
   iia ithithu
   muthithu
@@ -14,3 +16,5 @@
 vanini a little
 
 nini little
+
+nĩki - why

@@ -1067,40 +1067,68 @@ Kilonzo: Nina silingi ĩkumi na itano.
 
 Mũthoosya : Aiee. Nĩngũkwata ngalama. Kilonzo : Eka ngũnenge silingi ĩkũmi na thanthatũ kwa kilo kĩmwe. Mũthoosya : Aiee. Ongela silingi ĩmwe. Kilonzo : Kwata. Mũthoosya : Nũu. enda nesa. Kilonzo: : Tiwa nesa. READ ALOUD:
 
-Wĩta ata mũseLE? - How much are you selling
-Wĩta ata mboso? - Beans
-Wĩta ata mbemba? - Maize
+## Rea Aloud
 
-Wĩthoosya kyaũ (rising)?
-nthooesye kina - sell something
+Wĩta ata mũseLE? - How are you selling rice? (How much is it?)
+Wĩta ata mboso? - How are you seeling beans
+Wĩta ata mbemba? - How are you seling corn?
 
-Nĩthoosya mboka. Nĩthoosya matunda. Nĩthoosya ngũa.
+Wĩthoosya kyaũ (rising)? - What are you selling?
+  - Nĩthooesye kina - Sell me something (?)
+  - Nĩthoosya mboka
+  - Nĩthoosya matunda. 
+  - Nĩthoosya ngũa. - I am selling clothes 
 
-Mus(ee)ele kĩlo kĩmwe nĩ mbesa siana? Nĩ silingi mĩongo ĩlĩ. Nĩ silingi mĩongo itatũ. Nĩ silingi mĩongo ĩtano.
+Mus(ee)ele kĩlo kĩmwe nĩ mbesa siana? 
+  - Nĩ silingi mĩongo ĩlĩ. 
+  - Nĩ silingi mĩongo itatũ. 
+  - Nĩ silingi mĩongo ĩtano.
 
-Wĩta ata maluu?
+Wĩta ata maluu? - How are you selling potatoes?
+  - Nĩthoosya silingi ĩana kwa ĩleve (debe moja one can/container). - - Nĩthoosya silingi mĩongo keenda kwa ĩleve. 
+  - Nĩthoosya silingi ĩkumi kwa kilio (small mbakuli / bakuli).
 
-Nĩthoosya silingi ĩana kwa ĩleve (debe moja one can/container). Nĩthoosya silingi mĩongo keenda kwa ĩleve. Nĩthoosya silingi ĩkumi kwa kilio (small mbakuli / bakuli.
+Wĩthoosya ata ĩsungwa? - How are you selling an orange?
+  - Nĩ silingi ĩana. 
+  - Nĩ silingi ĩkumi.
 
-Wĩthoosya ata ĩsungwa? - How are you selling (how much)?
+Usu nĩ thooa mũnene. 
+Usu nĩ thooa mũnini. 
+Usu nĩ thooa mũseo.
 
-Nĩ silingi ĩana. Nĩ silingi ĩkumi.
+Nĩta ngũa laisi (raisi/cheap) mũno. I'm selling cheap clothes
+Wĩta ngũa vĩnya (high/expensive) muno. You're selling very expensive clothes
+Eta (he sells) ngũa nesa (vizuri). - He/she is selling clothes nicely
 
-Usu nĩ thooa mũnene. Usu nĩ thooa mũnini. Usu nĩ thooa mũseo.
+Thoo.a wa lĩu nũvandie (panda/gone up). 
+Thoo.a wa matunda nũvalukiLE (kuvaluka (fall down) - request to lower, gone down).
 
-Nĩta ngũa laisi (raisi/cheap) mũno. Wĩta ngũa vĩnya (high/expensive) muno. Eta (he sells) ngũa nesa (vizuri). - Anuza 
+Ethiwa nũtonya (if you can) kuweza), 
+  - thee.sya (shusha/lower) thoo.a vanini. thee.sya kivendela
+  - thee.sya silingi ilĩ. 
+  - thee.sya silingi itano. 
+  - ola (rising) (kuola, reduce/punguza) silingi ũmwe. 
+  - ongela (ongeza) silingi ũmwe. (Mwongela/Mwongeli - the one who increase)
 
-Thooa wa lĩu nũvandie (panda/gone up). Thooa wa matunda nũvalukiLE (kuvaluka - request to lower). Ethiwa nũtonya (if it is possible), theesya (punguza/lower) thooa vanini.
-
-theesya silingi ilĩ. theesya silingi itano. ola (reduce) silingi ũmwe. ongela (ongeza) silingi ũmwe.
-
-48
-
-
-
-* * *
-
-Vocabularies English Plural Kũthooa To buy - Mũthooi Buyer Athooi Mũthoosya Seller Athoosya Mbesa syiana? How much money? - Thooa Buy - Kũta To sell - Wĩta ata? How much are you selling? - Wĩthoosya ata? How much are you selling? - Ongela Add - Theesya thooa/vungusya thooa Reduce - Ĩleve A debe - Kilo A kilogram - Kũthima To weigh - Vinya Expensive - Laisi Cheap - Kwoou Therefore - Asala Loss - Mũsele Rice Mĩsele Sati Shirt Sati Mboso Beans Mboso Nguũa Clothes Ngũa itunda Fruits Matunda Liu Food Malĩu Ethĩwa If - Ethĩwa nũtonya If you can - Kũtonya To be able - Mboka Vegetables Mboka Mũingo Abroad -
+## Vocabulary
+Kũthooa To buy
+Mũthooi Buyer Athooi 
+Mũthoosya Seller Athoosya 
+Mbesa syiana? How much money?
+Thooa Buy
+Kũta To sell
+Wĩta ata? How much are you selling?
+Wĩthoosya ata? How much are you selling?
+Ongela Add
+Theesya thooa/vungusya thooa Reduce
+Ĩleve A debe
+Kilo A kilogram
+Kũthima To weigh
+Vinya Expensive
+Laisi Cheap
+Kwoou Therefore
+Asala Loss
+Mũsele Rice Mĩsele Sati Shirt Sati Mboso Beans Mboso Nguũa Clothes Ngũa itunda Fruits Matunda Liu Food Malĩu Ethĩwa If - Ethĩwa nũtonya If you can - Kũtonya To be able - Mboka Vegetables Mboka Mũingo Abroad -
 
 Note: The possible grammar in this lesson is the present tense. it has been covered in a previous lesson.
 

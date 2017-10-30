@@ -5,6 +5,7 @@
 - **Uvoo wa kyumwa?** church, 7 days of the week
 - **Uvoo wa matuku** Habari za siku?
 - **Utuwie ata?** - How have you been?
+- Keethya kimwana
 
 ## Communication
 - **Nuu mbĩ(u)WA yu?** Can you hear me now?
