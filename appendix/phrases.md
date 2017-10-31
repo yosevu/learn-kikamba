@@ -17,6 +17,7 @@
 - Nukuka wioo? Will you come tonight?
 - Waasya ata? - What did you say?
 - Wiasia ata - What are you saying?
+- Ni wa kwendesya - It is interesting
 
 ## Directions
 - **ĩkala kĩvĩlani** Sit on the chair.

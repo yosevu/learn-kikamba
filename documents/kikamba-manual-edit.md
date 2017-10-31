@@ -1111,24 +1111,26 @@ Ethiwa nũtonya (if you can) kuweza),
   - ongela (ongeza) silingi ũmwe. (Mwongela/Mwongeli - the one who increase)
 
 ## Vocabulary
-Kũthooa To buy
+Kũthoo.a To buy
 Mũthooi Buyer Athooi 
 Mũthoosya Seller Athoosya 
-Mbesa syiana? How much money?
-Thooa Buy
-Kũta To sell
+Mbesa siana? How much money?
+Thoo.a Buy
+Kũ.TA (rising) To sell
 Wĩta ata? How much are you selling?
 Wĩthoosya ata? How much are you selling?
 Ongela Add
-Theesya thooa/vungusya thooa Reduce
+Theesya thoo.a/vungusya thoo.a Reduce
 Ĩleve A debe
 Kilo A kilogram
 Kũthima To weigh
 Vinya Expensive
 Laisi Cheap
 Kwoou Therefore
-Asala Loss
-Mũsele Rice Mĩsele Sati Shirt Sati Mboso Beans Mboso Nguũa Clothes Ngũa itunda Fruits Matunda Liu Food Malĩu Ethĩwa If - Ethĩwa nũtonya If you can - Kũtonya To be able - Mboka Vegetables Mboka Mũingo Abroad -
+Faita - profit
+Asala Loss e.g. 
+Mũsele Rice Mĩsele Sati Shirt Sati Mboso Beans Mboso Nguũa Clothes Ngũa itunda Fruits Matunda Liu Food Malĩu Ethĩwa If - Ethĩwa nũtonya If you can - Kũtonya To be able - Mboka Vegetables Mboka 
+Mũingo Abroad/other side -
 
 Note: The possible grammar in this lesson is the present tense. it has been covered in a previous lesson.
 
@@ -1140,13 +1142,13 @@ EXERCISE ONE (a) Ũvoo waku? (b) Nĩ museo. Wenda kũthooa kyaũ? (a) __________
 
 * * *
 
-EXERCISE TWO – FILL IN THE GAPS. SOMA NGEWA INO – READ THIS STORY Ithe wa Mwĩkali nĩ mũndu wa viasala. atesaa syĩndũ ta ngũa, matunda, na Iĩu. Auaa/thooa ngũa syake Ndukani kwa muindi. Atesaa ngũa syake vinya nundu syĩ vinya koneka. Mita ĩmwe ya nuga ni silingi iana imwe.
+EXERCISE TWO – FILL IN THE GAPS. SOMA NGEWA INO – READ THIS STORY Ithe wa Mwĩkali nĩ mũndu wa viasala. atesaa (he sells) syĩndũ (things) ta (like) ngũa, matunda, na malĩu. Auaa/thooa ngũa syake Ndukani kwa muindi. Atesaa ngũa syake vinya (expensive) nundu syĩ vinya (hard) kwoneka (because they are hard to see/find/get them). Mita ĩmwe ya nuga ni silingi iana imwe.
 
-Ithe wa Mwĩkali atesaa matunda na Iĩu kwa thooa mũseo. Mboso kilo kĩmwe ni silingi miongo itaano. Ethiwa mũthooi nĩwalea, Ithe was Mwĩkali nũtonya kũtheesya thooa nginya silingi miongo ina. Ota ũu, ĩthe wa Mwĩkali nutesaa mbemba ikunia yimwe kwa silingi ngili imwe. Uu ni thooa wa kwambiia, indi mũthooi alea nũtonya kũtheesya thooa nginya silingi keenda . Ũũ nĩ thooa wa mwiso.
+Ithe wa Mwĩkali atesaa matunda na Iĩu kwa thooa mũseo. Mboso kilo kĩmwe ni silingi miongo itaano. Ethiwa mũthooi nĩwalea (has refuse/kataa), Ithe was Mwĩkali nũtonya kũtheesya thooa nginya (until) silingi miongo ina. Ota ũu (and like that), ĩthe wa Mwĩkali nutesaa mbemba ikunia yimwe kwa silingi ngili imwe. Uu ni thooa wa kwambiia (this is the starting price), indi (and) mũthooi alea nũtonya kũtheesya thooa nginya (mpaka) silingi maana keenda (if the buyer refuses the price you will be able to lower it). Ũũ nĩ thooa wa mwiso (last).
 
 Sungia Makulyo aa – Answer these questions: -
 
-1\. Ithe was Mwĩkali athũkũmaa wĩa mwaũ? 2\. Atesaa syĩndu myaũ? 3\. Nĩkĩ ĩthe wa Mwĩkali utesaa ngũa vinya? 4\. Mita itatu sya kĩtambaa nĩ mbesa syiana? 5\. Kwa thooa mũseo mboso kilo kimwe ni mbesa syĩana? 6\. Mbemba ĩkunia yĩmwe ni mbesa syĩana. 7\. Memba ĩkunia yĩmwe kwa thooa wa mwĩso nĩ mbesa syiana? 8\. We nĩ wendete wĩa wa viasala? Nĩkĩ?
+1\. Ithe was Mwĩkali athũkũmaa wĩa mwaũ? 2\. Atesaa syĩndu myaũ? 3\. Nĩkĩ (Why) ĩthe wa Mwĩkali utesaa ngũa vinya? 4\. Mita itatu sya kĩtambaa nĩ mbesa syiana? 5\. Kwa thooa mũseo mboso kilo kimwe ni mbesa syĩana? 6\. Mbemba ĩkunia yĩmwe ni mbesa syĩana. 7\. Memba ĩkunia yĩmwe kwa thooa wa mwĩso nĩ mbesa syiana? 8\. We nĩ wendete wĩa wa viasala? Nĩkĩ?
 
 CULTURAL NOTE: Like in other African communities bargaining in the Kamba culture is part of business. It is therefore considered important for any learner to be familiar with this vocabuilaries for better survival and functioning. Generally, the buyer‟s idea is to buy cheaply while the seller intends to get omse profit.; so welcome to the land of bargaining and do it wit hus. Good luck.
 
