@@ -80,6 +80,7 @@ kũwa - cook
 # V
 **-vua** wash e.g. kuvua ngua - wash clothes
 **-vũna** be full, be satisfied
+vya - e.g. ngima ni vie, mahindi imeiva
 
 
 # W

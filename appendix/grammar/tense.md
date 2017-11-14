@@ -119,7 +119,17 @@ Mayumite - They are not from
 - nienda uthi / ninguthi - I want to go
 - niendie kũua kyai - I went to cook tea
 
+## Do
+## Wake up
+niamuka (?) - I am waking up
+          - I wake up (habitually)
+niamukie - I woke up (recent past)
+          - I woke up (distant past)
+ngamuka   - I will wake up
+
 ## Cook
+
+Ninaua - I cooked tea
 
 ## Buy
 

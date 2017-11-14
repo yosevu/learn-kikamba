@@ -6,6 +6,30 @@
 - **Uvoo wa matuku** Habari za siku?
 - **Utuwie ata?** - How have you been?
 - Keethya kimwana
+- Imi nasya ata? - What does it mean?
+- Tukonana uni/no uni (until tomorrow)
+- Ndavye twambie - Tell me (kutavya)
+Haya nauseo indi
+- Wĩĩka ata? - What are you doing?
+- Wĩkie ata? - What did you do?
+- Wienda kyau? - What do you want?
+- Nuuthi umunti - ?
+- Nusomie
+- Nduna soma
+- Wienda kuthi kwika ata? - What do you want to go to do?
+- Nĩnĩkie nesa - I did well
+- Ndineka nesa - I didn't do well
+- Wikaa ata?
+- nikwakya? - Have you seen the day (good morning)
+  - ii ninoona kwakya - Yes, I have seen the morning
+- Niweewua - Did you hear?
+
+- Vatu - bado
+- Ndiona ta waa muka - I see you are awake (answer: Ii)
+- Niona ta waa muka
+- Eka timinia vau / Eka twi minia vau - Let's finish there
+
+Ninguendeea na kwithukiisya
 
 ## Communication
 - **Nuu mbĩ(u)WA yu?** Can you hear me now?

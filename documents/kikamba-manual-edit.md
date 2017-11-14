@@ -1146,47 +1146,62 @@ EXERCISE TWO – FILL IN THE GAPS. SOMA NGEWA INO – READ THIS STORY Ithe wa Mw
 
 Ithe wa Mwĩkali atesaa matunda na Iĩu kwa thooa mũseo. Mboso kilo kĩmwe ni silingi miongo itaano. Ethiwa mũthooi nĩwalea (has refuse/kataa), Ithe was Mwĩkali nũtonya kũtheesya thooa nginya (until) silingi miongo ina. Ota ũu (and like that), ĩthe wa Mwĩkali nutesaa mbemba ikunia yimwe kwa silingi ngili imwe. Uu ni thooa wa kwambiia (this is the starting price), indi (and) mũthooi alea nũtonya kũtheesya thooa nginya (mpaka) silingi maana keenda (if the buyer refuses the price you will be able to lower it). Ũũ nĩ thooa wa mwiso (last).
 
-Sungia Makulyo aa – Answer these questions: -
+## Sungia Makulyo aa – Answer these questions
 
-1\. Ithe was Mwĩkali athũkũmaa wĩa mwaũ? 2\. Atesaa syĩndu myaũ? 3\. Nĩkĩ (Why) ĩthe wa Mwĩkali utesaa ngũa vinya? 4\. Mita itatu sya kĩtambaa nĩ mbesa syiana? 5\. Kwa thooa mũseo mboso kilo kimwe ni mbesa syĩana? 6\. Mbemba ĩkunia yĩmwe ni mbesa syĩana. 7\. Memba ĩkunia yĩmwe kwa thooa wa mwĩso nĩ mbesa syiana? 8\. We nĩ wendete wĩa wa viasala? Nĩkĩ?
+1\. Ithe wa Mwĩkali athũkũmaa wĩa mwaũ? What work does Mwĩkali's father do?
+2\. Atesaa syĩndu myaũ? What things does he sell?
+3\. Nĩkĩ (Why) ĩthe wa Mwĩkali utesaa ngũa vinya? Why does Mwĩkali's father sell expensive clothes?
+4\. Mita itatu sya kĩtambaa nĩ mbesa syiana? How much money is 3 meters of cloth?
+5\. Kwa thooa mũseo mboso kilo kimwe ni mbesa syĩana? How much money is a good price for one kilo of beans?
+6\. Mbemba ĩkunia yĩmwe ni mbesa syĩana. How much money is one sack of corn?
+7\. Memba ĩkunia yĩmwe kwa thooa wa mwĩso nĩ mbesa syiana? How much oney is the lowest price for one sack of corn?
+8\. We nĩ wendete wĩa wa viasala? Nĩkĩ? Do you like the work of business? Why?
 
-CULTURAL NOTE: Like in other African communities bargaining in the Kamba culture is part of business. It is therefore considered important for any learner to be familiar with this vocabuilaries for better survival and functioning. Generally, the buyer‟s idea is to buy cheaply while the seller intends to get omse profit.; so welcome to the land of bargaining and do it wit hus. Good luck.
-
-50
-
-
+CULTURAL NOTE: Like in other African communities bargaining in the Kamba culture is part of business. It is therefore considered important for any learner to be familiar with this vocabuilaries for better survival and functioning. Generally, the buyer's idea is to buy cheaply while the seller intends to make a profit. So welcome to the land of bargaining and do it with us. Good luck.
 
 * * *
 
-- LESSON ELEVEN----ISOMO YA IKUMI NA
+# Lesson Eleven - Isomo ya Ikumi na Imwe
 
-IMWE. - TOPIC
+Yũ nĩ saa syiana? – What is the time now?
 
-;-YŨ NĨ SAA SYIANA? – WHAT TIME IS IT NOW?
+Competency: Talk about daily activities. Tell time appropriately.
 
-COMPETENCY
+## DIALOGUE: NGEWA YA MBEE - The first story
+Frank: Nayu Mũsyoka? And you Musyoka
+Mũsyoka: Nĩ kũseo. Ũvoo waku? 
+Frank: Nĩ nesa. Ũmũnthĩ ũamũkie saa syiana? 
+Mũsyoka: Umũnthĩ nyie nĩamũkie saa ĩkumi na ilĩ (6am). 
+Frank: Wamina kũamuka wikie ata? After you woke up, what did you do?
+Mũsyoka: Kĩla mũthenya naamũka, nĩnĩthambaa (kuthambaa) mwĩĩ, nĩnĩsanuaa (comb) nzwĩĩ/nzuĩĩ na ĩndĩ nĩnĩkĩaa (kwikĩaa/kuvaa) ngũa sya sukulu. 
+Frank: We nũnyusaa (kunywa) kyai kĩla kwakya? 
+Mũsyoka : Aiee, ndinyusaa kyai kwkya indi (but) nĩnĩsyokaa mũsyi saa inya kũnywa 
+Frank: Nyie ndinyusaa kyai kwakya nũndũ ndyendete (I don't like) kũselewa (to be late) ni sukulu. Yu nĩ saa syiana? 
+Mũsyoka : Saa ii nĩ saa ũmwe na nyusu (7:30). 
+Frank: TŨ.sembe ĩndĩ (so that) tũikaselewe. (Kusemba - run) we won't be late
+Mũsyoka : Ĩĩ tũsembe.
 
-:TALK ABOUT DAILY ACTIVITIES ;TELL TIME APPROPRIATLY.
+## SYOMA KWA WASYA MŨNENE – READ ALOUD:
 
-DIALOGUE: NGEWA YA MBEE; Frank : Nayu Mũsyoka? Mũsyoka : Nĩ kũseo. Ũvoo waku? Frank : Nĩ nesa. Ũmũnthĩ ũamũkie saa syiana? Mũsyoka : Umũnthĩ nyie nĩamũkie saa ĩkumi na ilĩ. Frank : Wamima kũamuka wikei ata? Mũsyoka : Kĩla mũthenya naamũka, nĩnĩthambaa mwĩĩ, nĩnĩsanuaa nzwĩĩ
+Yu nĩ saa syiana? 
+Yu nĩ saa ũmwe. 
+Yu nĩ saa ilĩ. 
+Yu nĩ saa itatũ na nyusu sya kwakya. 
+Saa itano itielye (the time that remains, imebaki, kutialia - remain)ndatĩka mĩongo ĩlĩ.
 
-na ĩndĩ nĩnĩkĩaaa ngũa sya sukulu. Frank : We nũnyusaa kyai kĩla kwakya? Mũsyoka : Aiee, ndinyusaa kyai kwkya indi nĩnĩsyokaa mũsyi saa inya
+We ũnendaa wĩanĩ saa syiana?
 
-kũnywa Frank : Nyie ndinyusaa kyai kwakya nũndũ ndyendete kũselewa
+Nyie nĩendaa wĩani saa ilĩ na ndatĩka ĩkũmi. 
+We nũendaa wĩanĩ saa ilĩ na nusu. 
+Mo maendaa wĩanĩ saa ũmwe ki (exactly).
 
-ni sukulu. Yu nĩ saa syiana? Mũsyoka : Saa ii nĩ saa ũmwe na nyusu. Frank : Tũsembe ĩndĩ tũikaselewe. Mũsyoka : Ĩĩ tũsembe.
+Inywĩ mũamũkaa saa syiana? 
+Nyie nĩamukaa saa kũmi na ũmwe na ndatĩka ikũmi na itano (5:15). Nyie nĩamũkaa saa kũmi na ilĩ na ndatika miongo ĩlĩ (4:20).
+Nyie nĩamũkaa saa ũmwe na ndatĩka ikũmi na ilĩ (7:12). 
+Ithyĩ tũamũkaa saa ilĩ itielye kwota (15).
 
-SYOMA KWA WASYA MŨNENE – READ ALOUD:
-
-Yu nĩ saa syiana? Yu nĩ saa ũmwe. Yu nĩ saa ilĩ. Yu nĩ saa itatũ na nyusu sya kwakya. Saa itano itielye ndatĩka mĩongo ĩlĩ.
-
-We ũnednaa wĩanĩ saa syiana?
-
-Nyie nĩendaa wĩani saa ilĩ na ndatĩka ĩkũmi. we nũendaa wĩanĩ saa ilĩ na nusu. Mo manendaa wĩanĩ saa ũmwe ki.
-
-Inywĩ mũamũkaa saa syiana? Nyie nĩamukaa saa kũmi na ũmwe na ndatĩka ikũmi na itano. Nyie nĩamũkaa saa kũmi na ilĩ na ndatika miongo ĩlĩ. Nyie nĩamũkaa saa ũmwe na ndatĩka ikũmi na ilĩ. Ithyĩ tũamũkaa saa ilĩ itieleye kwota.
-
-Namina kũamũka, nĩnĩkĩaa ngũa. Namina kũamũka nĩnĩsanũaa nzwĩĩ.
+Namina kũamũka, nĩnĩkĩaa ngũa. When I am finished waking up, I put on clothes.
+Namina kũamũka nĩnĩsanũaa nzwĩĩ.
 
 51
 
@@ -1194,23 +1209,34 @@ Namina kũamũka, nĩnĩkĩaa ngũa. Namina kũamũka nĩnĩsanũaa nzwĩĩ.
 
 * * *
 
-Nĩnĩswakaa maeo. Nĩnĩĩsaa Iĩu wa kwakya. Nĩnĩthambaa mwĩĩ.
+Nĩnĩswakaa/Nĩnĩsakaa ieo/maeo. 
+Nĩnĩĩsaa lĩu wa kwakya. - I eat morning food/breakfast
+Nĩnĩthambaa mwĩĩ. - I wash my body
 
-We ũvikaa mũsyĩ saa syiana? Nyie nĩvikaa mũsyĩ saa ilĩ sya wĩoo.
+We ũvikaa mũsyĩ saa syiana? (reach - What time do you reach home?)
+Nyie nĩvikaa mũsyĩ saa ilĩ sya wĩoo. (8 at night)
 
-Nĩvikaa mũsyĩ saa keenda. Nivikaa mũsyĩ katambanga. Nivikaa mũsyĩ ngũkũ syasya. Nivikaa mũsyĩ utuku katĩ. Nyie nĩvikaa mũsyi kwatuka.
+Nĩvikaa mũsyĩ saa keenda. 
+Nivikaa mũsyĩ katambanga. - midday
+Nivikaa mũsyĩ ngũkũ syasya. - 3 am/when the cock crows
+Nivikaa mũsyĩ utuku katĩ. - midnight
+Nyie nĩvikaa mũsyi kwatuka. - in the evening/after dark
 
-Mwambĩĩaa masomo saa syiana? Twambĩĩaa masomo saa ũmwe. Twambĩĩaa masomo saa itano.
+Mwambĩĩaa masomo saa syiana? - What time do you start lessons?
+Twambĩĩaa masomo saa ũmwe. 
+Twambĩĩaa masomo saa itano.
 
-We unyusaa kyai kya kwakya saa syiana?
+We unyusaa kyai kya kwakya saa siana? - Usually drink
 
-Nĩnyusaa kyai saa umwe na nyusu. Nĩnyusaa kyai saa ilĩ itielye kwota. Nĩnyusaa kyai saa itatũ.
+Nĩnyusaa kyai saa umwe na nyusu. 
+Nĩnyusaa kyai saa ilĩ itielye kwota. 7:45
+Nĩnyusaa kyai saa itatũ.
 
-Mo mathũmũaa saa syiana?
+Mo mathũmũaa saa siana? - When do they rest
 
-Mathũmũaa saa kũmi sya mawĩoo. Mathũmũaa kwatuka. Mathumuaa ũtukũ katĩ.
+Mathũmũaa saa kũmi sya mawĩoo (evening). Mathũmũaa kwatuka. Mathumuaa ũtukũ katĩ.
 
-Vocabularies English Plural Saa Time Saa Saa ũmwe Seven O‟clock - Saa ilĩ Eight Oclock - Saa itatũ Nine O‟clock - Saa inya Ten O‟clock - Saa itano Eleven O‟clock - Saa sita Twelve O‟clock - Saa mũonza One O‟clock - saa nyaanya Two O‟clock - saa keenda Three O‟clock - saa ĩkũmi Four O‟clock - saa ikũmi na ũmwe Five O‟clock - Saa ikũmi na ilĩ Six O‟clock - Ndakĩka Minutes Ndatika Nusu Half past - Kwota Quarter past - Itielye Less - Kwakya Morning - Saa umwe wa kwakya Seven O‟clock in the morning Mũthenya Day - Ũtukũ Night -
+Vocabularies English Plural Saa Time Saa Saa ũmwe Seven O‟clock - Saa ilĩ Eight Oclock - Saa itatũ Nine O‟clock - Saa inya Ten O‟clock - Saa itano Eleven O‟clock - Saa sita Twelve O‟clock - Saa mũonza One O‟clock - saa nyaanya Two O‟clock - saa keenda Three O‟clock - saa ĩkũmi Four O‟clock - saa ikũmi na ũmwe Five O‟clock - Saa ikũmi na ilĩ Six O‟clock - Ndakĩka Minutes Ndatika Nyusu Half past - Kwota Quarter past - Itielye Less - Kwakya Morning - Saa umwe wa kwakya Seven O‟clock in the morning Mũthenya Day - Ũtukũ Night -
 
 52
 
@@ -1218,9 +1244,9 @@ Vocabularies English Plural Saa Time Saa Saa ũmwe Seven O‟clock - Saa ilĩ Ei
 
 * * *
 
-Mawĩoo Evenings - Katambanga, syua yĩkĩũngama Noon (when the sun stands up) Syua yathũa About six (sun down) Syua yikĩthũa About five thirty (sun going down) Ngũkũ syasya Cockcrow Kwatuka After dark
+Mawĩoo Evenings - Katambanga, syua yĩkĩũngama (when the sun stands) Noon (when the sun stands up) Syua yathũa (rests) About six (sun down) Syua yikĩthũa (is setting) About five thirty (sun going down) Ngũkũ syasya Cockcrow Kwatuka After dark
 
-Ũtukũ katĩ Midnight Ngũkũ syasya About four O‟clock (when cock crow) Syua yauma About six O‟clock (sun up) Kwakya Morning Yu Now Nayu? How are you now (greetings for agemates)
+Ũtukũ katĩ Midnight Ngũkũ syasya About four O‟clock (when cock crow) Syua yauma (come up) About six O‟clock (sun up) Kwakya Morning Yu Now Nayu? How are you now (greetings for agemates)
 
 GRAMMAR EXPLANATION:
 
@@ -1256,17 +1282,24 @@ Kwa Ngelekanyo – For example:
 
 8.30 a.m. - Saa ilĩ na nusu sya kwakya.
 
-(a) 10.10 a.m. (b) 12.00 noon (c) 6.30 p.m. (d) 12.30 p.m. (e) 5.00 a.m. (f) 11.30 a.m. (g) 9.45 a.m. (h) 1.00 p.m. (i) 2.25 p.m. (j) 6.25 a.m.
+(a) 10.10 a.m. (b) 12.00 noon (c) 6.30 p.m. (sya wioo) (d) 12.30 p.m. (e) 5.00 a.m. (f) 11.30 a.m. (g) 9.45 a.m. (h) 1.00 p.m. (muthenya) 2.25 p.m. (j) 6.25 a.m.
 
-EXERCISE TWO: Sũngia makũlyo aa – Answer this questions:
+EXERCISE TWO: Sũngia makũlyo aa – Answer these questions:
 
-(1) We ũvikaa sukulu saa syiana? (2) Wambiiaa kũsoma saa syiana? (3) Ũamukaa saa syiana? (4) Ũamukaa kũsoma saa syiana? (5) Ũvikaa mũsyĩ saa syiana? (6) Ũthumuaa vandu va ndatika syiana?
+(1) We ũvikaa sukulu saa syiana? saa umwe kwa kwakya
+(2) Wambiiaa kũsoma saa syiana? 
+(3) Ũamukaa saa syiana? 
+(4) Ũamukaa kũsoma saa syiana? 
+(5) Ũvikaa mũsyĩ saa syiana? 
+(6) Ũthumuaa vandu (how long/ngapi) va ndatika syiana?
 
 COMPREHENSION:
 
 Kavĩsĩ kaa ketawa Kĩoko. Kĩoko nĩ kavisi kaseo. Kĩla kwakya Kĩoko aamũkaa saa kũmi na ilĩ. Ĩtina wa kũamũka Kioko nũthambaa mwii. Amina kũthamba Kĩoko nũsanũaa nzwĩĩ saa kũmi na ilĩ na nyusu na nĩwĩkĩaa ngũa sya sukulu.
 
-Kĩoko amina maũndũ asu nĩ ũendaa ĩikonĩ kũnywa kyai. Nyiny‟a wa Kĩoko nĩ kĩveti kĩseo na nĩ kĩsĩ kũua muno. Kĩoko nũnyusaa kyai na nĩ uĩsaa ĩtumbĩ yĩmwe. Mĩthenya ĩngĩ Kĩoko nĩ ũnyusaa ũsũũ na matunda ta maiũ kana masungwa
+This small boy is called Kioko. 
+
+Kĩoko amina maũndũ asu (those things) nĩ ũendaa ĩikonĩ kũnywa kyai. Nyiny‟a wa Kĩoko nĩ kĩveti (woman) kĩseo na nĩ kĩsĩ (knows) kũua muno (well). Kĩoko nũnyusaa kyai na nĩ uĩsaa ĩtumbĩ yĩmwe. Mĩthenya ĩngĩ (other times) Kĩoko nĩ ũnyusaa ũsũũ na matunda ta maiũ kana (or)masungwa.
 
 54
 
@@ -1276,14 +1309,21 @@ Kĩoko amina maũndũ asu nĩ ũendaa ĩikonĩ kũnywa kyai. Nyiny‟a wa Kĩoko
 
 Amina kũya Kioko nũswakaa maeo na ĩndĩ nĩwosaa mavuku make na kũthi sukulu. Kila mũthenya Kĩoko ndaseleawa. We avikaa sukulu saa ilĩ itielye ndatĩka ĩkũmi na itano. Mwalimũ ambĩĩaa masomo saa ilĩ ki.
 
-EXERCISE THREE: YU NĨ SAA SYIANA? – WHAT TIME IS IT NOW? K Ĩ OKO E Ĩ KA ATA? - WHAT IS KOKO DOING?
+EXERCISE THREE: YU NĨ SAA SYIANA? – WHAT TIME IS IT NOW? K Ĩ OKO E Ĩ KA ATA? - WHAT IS KOKO DOING? Kioko Eika Ata?
 
 MAKULYO – QUESTIONS:
 
-(1) Kĩoko aamũkaa saa syiana? (2) Asanuaa nzwĩĩ saa syiana? (3) Amina kwĩkĩa ngua Kĩoko ekaa ata? (4) Kĩla kwakya Kĩoko anyusaa ũsũũ? (5) Kĩoko aisaa matunda meku? (6) Avikaa sukulu saa syiana? (7) masomo mambĩĩaa saa syiana?
+(1) Kĩoko aamũkaa saa syiana? 
+(2) Asanuaa nzwĩĩ/nzui saa syiana? 
+(3) Amina kwĩkĩa ngua Kĩoko ekaa ata? 
+(4) Kĩla kwakya Kĩoko anyusaa ũsũũ? - Ndayusaa usuu, asnyusaa kyai. Mavinda/Matuku angi (other times) anyusaa kyai
+(5) Kĩoko aisaa matunda meku? 
+(6) Avikaa sukulu saa syiana? 
+(7) masomo mambĩĩaa saa syiana?
 
 55
 
+saa ikumi syaungama (kamili)
 
 
 * * *
@@ -1292,17 +1332,20 @@ CULTURAL NOTE;
 
 Before the coming of Europeans the Akamba reckoned time by the sun or by events in their lives. Even today the elderly men judy look at the sun and tell the time which in most cases is a few mintues past or less. That‟s why we have phrases like:
 
-Ngũkũ syasya (when cocks crow) for four o‟clock.. Syua yauma (sun up) for six o‟clock.
+Ngũkũ syasya (when cocks crow) for 3am-4am.
+Syua yauma (sun up) for around 6am.
 
+Makwakya (when the morning clears/when the sun has come out) about 9am.
 
+Syua yikiungama (when the sun stands up) noon.
 
-56
+Syua yathũa (when the sun goes down) about 6pm.
 
-* * *
+Kwatuka (after dark). 
 
-Makwakya (when the morning clears) aobut nine o‟clock. Syua yikiungama (when the sun stands up) noon. Syua yathũa (when the sun goes down) about six p.a. Kwatuka (after dark). Mawĩoo (evenings) as from three o‟clock.
+Mawĩoo (evenings) as from 3pm.
 
-Therefore when you have meetings with women groups, at the field you need to be flexible since to us any time between seven o‟clock and theve is still morning.
+Therefore when you have meetings with women groups, at the field you need to be flexible since to us any time between seven o‟clock and ? is still morning.
 
 57
 
@@ -1314,23 +1357,35 @@ LESSON TWELVE
 
 ISOMO YA IKUMI NA ILI ŨMŨNTHI NI MŨTHENYA WĨKŨ? – WHAT DAY IS IT?
 
-Mwalimũ : Syana mwĩ aseo? John/Mary : Ii twĩ aseo mwalimũ. Mwalimũ : Umunthĩ nĩtuuvunga sukulu. Ivinda ya kũthũmũa mũkeeka
+Mwalimũ : Syana mwĩ aseo? John/Mary : Ii twĩ aseo mwalimũ. Mwalimũ : Umunthĩ nĩtuuvunga (closing) sukulu. Ivinda ya kũthũmũa mũkeeka ata (what will you all do)?
 
-ata? John : Wathanthatũ tũkathũmũa mũsyĩ – ĩndĩ wa kwambĩlĩĩlya
+John : Wathanthatũ (Sixth day) tũkathũmũa mũsyĩ – ĩndĩ wa kwambĩlĩĩlya (Monday/to start)
 
-tũkatetheesya nau kũĩma mũũndanĩ. Mary : Wakelĩ mwalimũ nyie ngavũa ngũa nake John akakũna vasi.
+tũkatetheesya (we will help) nau kũĩma mũũndanĩ. 
 
-Wakatatũ John we ũkeeka ata? John : Ivinda ya kũthũmũa kĩla wakatatũ nyie nĩnendete kũthi kũtea
+Mary : Wakelĩ (second day) mwalimũ nyie ngavũa (I will wash) ngũa nake (and) John akakũna vasi (piga pasi).
 
-Makũyũ vamwe na anyanyawa. Mwalimũ : Naku Mary wikaa ata kila wakatatũ? Mary : Mũthenya wa wakatatũ ni sua wa ndũnyũ. Kwoou nyie
+Wakatatũ John we ũkeeka ata? (What will you do on the Wednesday)
 
-niniendaa sokoni vamwe na mwaitũ. John : Wakana ithyi nitũendaa kũthaũka mũvila vamwe na anyanyae
+John: Ivinda ya kũthũmũa kĩla wakatatũ nyie nĩnendete kũthi (I like to go) kũtea (to trap) Makũyũ vamwe (together) na anyanyawa maitu (our friends). 
 
-maitũ. Mary athaũkaa mũvila wa moko nakwa nĩthaũkaa muvila wa maũũ Mwalimũ : Wakatano mwikaa ata? Mary : Kila wakatano tuendaa kwa sũsũ kũmũkethya. Twikalaa kwa
+Mwalimũ : Naku Mary wikaa ata kila wakatatũ?
 
-sũsũ nginya masaa ma wioo na indi tũisyoka mũsyĩ. Mwalimũ : Wakyumwa nimũendaa kyuma? John : Iĩ kĩla wakyumwa nitũendaa ĩkanisanĩ vamwe na mwaitũ na
+Mary : Mũthenya wa wakatatũ ni sua (Sun/day) wa ndũnyũ. Kwoou (therefore) nyie niniendaa (I go) sokoni vamwe na mwaitũ. 
 
-nau. Mwalimũ : Aaya. Nĩneewa mwĩ syana nzeo. Muikolwe nĩ kũsoma
+John : Wakana (Thursday) ithyi nitũendaa kũthaũka mũvila vamwe na anyanyae mo (their friends). 
+
+Mary athaũkaa (to play) mũvila wa moko (kwoko hand) nakwa nĩthaũkaa muvila wa maũũ (kuu - food)
+
+Mwalimũ : Wakatano (Friday) mwikaa ata? 
+
+Mary : Kila wakatano tuendaa kwa sũsũ (ũsũu - grandmother) kũmũkethya (to meet her). Twikalaa kwa sũsũ (her place) nginya (until) masaa ma wioo na indi (and then) tũisyoka mũsyĩ. 
+
+Mwalimũ : Wakyumwa nimũendaa kyumwa?
+
+John : Iĩ kĩla wakyumwa nitũendaa ĩkanisanĩ (makanisa) vamwe na mwaitũ na nau.
+
+Mwalimũ : Aaya. Nĩneewa mwĩ syana nzeo. Muikolwe nĩ kũsoma
 
 mavuku menyu kĩla mũthenya. John/Mary : Aya nĩ asande mwalimũ?
 
@@ -1374,7 +1429,27 @@ wakyumwa tũendaa ikanisanĩ Wakyumwa nĩtũvũaa ngũa.
 
 Mwai was nyaanya nĩtũvungaa sukulu. Mwai wa sikũkũ nĩtũthũmũaa mũsyĩ.
 
-VOCABULARIES ENGLISH PLURAL Wakwambĩlĩĩlya Monday - Wakelĩ Tuesday - Wakatatũ Wednesday - Wakana Thursday - Wakatano Friday - Wathanthatũ Saturday - Ikanisa Church Makanisa Mwai wa mbee January - Mwai wa kelĩ February - Mwai wa katatũ March - Mwai wa kana April - Mwai wa katano May - Mwai wa thanthatũ June - Mwai wa mũonza July - Mwai wa nyaanya August - Mwai wa keenda September - Mwai wa ĩkũmi October - Mwai wa ĩkũmi na ũmwe November - Mwai wa ikũmi na ilĩ December - Sukulu School - Kũvũa ngũa To wash clothes - Kũkũna vasi To iron - Ndũnyũ Market - Kyumwa Week Syuma Ũmũnthĩ Today -
+VOCABULARIES ENGLISH PLURAL 
+Wakwambĩlĩĩlya Monday - Mawakwambĩlĩĩlya
+Wakelĩ Tuesday - Mawakelĩ 
+Wakatatũ Wednesday - 
+Wakana Thursday - 
+Wakatano Friday - Wathanthatũ Saturday - Ikanisa Church Makanisa 
+Mwai wa mbee January - Miyai ya mbee
+Mwai wa kelĩ February - Miyai ya keli
+Mwai wa katatũ March - 
+Mwai wa kana April - Mwai wa katano May - Mwai wa thanthatũ June - Mwai wa mũonza July -
+Mwai wa nyaanya August - 
+Mwai wa keenda September - 
+Mwai wa ĩkũmi October - Miyai ye ikumi
+Mwai wa ĩkũmi na ũmwe November - Miyai ye
+Mwai wa ikũmi na ilĩ December - 
+Sukulu School - Masukulu
+Kũvũa ngũa To wash clothes - 
+Kũkũna vasi To iron - 
+Ndũnyũ Market - 
+Kyumwa Week Syuma 
+Ũmũnthĩ Today -
 
 59
 
@@ -1382,7 +1457,31 @@ VOCABULARIES ENGLISH PLURAL Wakwambĩlĩĩlya Monday - Wakelĩ Tuesday - Wakatat
 
 * * *
 
-Ũnĩ Tomorrow - Aũke The day after tomorrow - Iyoo Yesterday - Iso Day before yesterday - Mwai wa sikũkũ Month of Christmas - Kĩla mũthenya Everyday - Kũkethwa Will be - Kwaĩ It was / there was - Mũthenya wĩva? Which day? - Indĩĩ when - Wa keana? What day? - Wĩa Work - Kuthũmũa To rest - Kwĩthwa / kwĩthwa To be - Wĩa wa viasala Business - Wĩa wa nyũmba House work - Kũĩma Cultivate - Kũtetheesya To assist/help - Kũnyithya To water/irrigate - Kũtũa To pluck off/harvest - Atusaa, manyaanya Usually harvests tomatoes - kwĩyumbania To prepare one self - Ikovisi Cabbage Makovisi Kũvanda To plant -
+Ũnĩ Tomorrow - 
+Aũke The day after tomorrow - 
+Iyoo Yesterday - 
+Iso Day before yesterday - 
+Mwai wa sikũkũ Month of Christmas - Miyai ya sikuku
+Kĩla mũthenya Every day - 
+Kũkethwa There will be - 
+Kwaĩ There was - 
+Mũthenya wĩva? Which day? - Mithenya yiiva?
+Indĩĩ when - 
+Wa keana? What day? - 
+Wĩa Work/jobs - Mawĩa
+Kuthũmũa To rest - 
+Kwĩthwa / kwĩthwa To be - 
+Wĩa wa viasala Business - Mawia ma viasala
+Wĩa wa nyũmba House work - Mawia ma nyumba
+Kũĩma Cultivate - 
+Kũtetheesya To assist/help - 
+Kũnyithya To water/irrigate - 
+Kũtũa To pluck off - 
+Atusaa manyaanya Usually he does tomatoes - (?)
+Kuvua - harvest
+kwĩyumbania To prepare oneself - 
+Ikovisi Cabbage - Makovisi
+Kũvanda To plant -
 
 GRAMMAR: A possible grammar in this lesson is the verb to be. The present form of this verb in (MU/A) Class has already been dealt with. Here we are going to talk aobut the Va/Ku Class and a few examples of other noun classes. In Va/Ku class present form we say:
 
@@ -1390,9 +1489,12 @@ GRAMMAR: A possible grammar in this lesson is the verb to be. The present form o
 
 the future of the verb to be is eformed by the subject prefix + the future tense marker + the stem (ithiwa) which means to be. nce:
 
-Subject prefix + future tense marker + stem (ĩthĩwa) Kũ + K (a + I) ĩthĩwa. Kũkeethĩwa Example:
+Subject prefix + future tense marker + stem (ĩthĩwa) Kũ + K (a + I) ĩthĩwa. 
+Kũkeethĩwa - There will be
+Example:
 
-Ũni kukeethĩwa wakeana? Tommorrow will be what day? Aũke kũkeethĩwa mũthenya wĩva? The day after tomorrow will be which day?
+Ũni kukeethĩwa wakeana? Tommorrow will be what day? 
+Aũke kũkeethĩwa mũthenya wĩva? The day after tomorrow will be which day?
 
 Note: The above two examples are the immediate future tense. The verb to be in the past tense (Va/Kũ) is: - Yesterday past tense; It is formed by the subject prefix + tesne marker “na2 preceeding, e.g.
 
@@ -1402,36 +1504,67 @@ Note: The above two examples are the immediate future tense. The verb to be in t
 
 * * *
 
-Iyoo kũnaĩ wakyumwa – Yesterday was Sunday. Iyoo kũnaĩ wathanthatu – Yesterday was Saturday. With the indefinite past tenses the verb to be is formed by subject prefix + tense marker „a‟ preceedung „i e.g.
+Iyoo kũnaĩ wakyumwa – Yesterday was Sunday. 
+Iyoo kũnaĩ wathanthatu – Yesterday was Saturday. 
+With the indefinite past tenses the verb to be is formed by subject prefix + tense marker „a‟ preceedung „i e.g.
 
-Iso kwaĩ wakelĩ – The day before yesterday was Tuesday. With other noun classes the following are some examples with the verb to be.
+Iso kwaĩ wakelĩ – The day before yesterday was Tuesday. 
+With other noun classes the following are some examples with the verb to be.
 
-MU/A Class: Mwalimu uyu anaĩ muwau (yesterday past). This teacher was sick. Alimu aya mania awau. These teachers were sick. Uni mwana uyu akeethĩwa sukulu. Tommorrow this child will be in school.
+MU/A Class: 
+Mwalimu uyu anaĩ muwau (yesterday past). This teacher was sick. Alimu aya manai awau. These teachers were sick. Uni mwana uyu akeethĩwa sukulu. Tommorrow this child will be in school.
 
-I/Ma Sing. Wakyumwa ĩembe yĩĩ yaĩ muundanĩ.
+I/Ma Sing. 
+Wakyumwa ĩembe yĩĩ yaĩ (was) muundanĩ.
 
 On Sunday this hoe was at the garden.
 
 P1 Wakyuma maembe aa maĩ muundanĩ.
 
-Immediate future: Wakyumwa ĩembe yĩĩ yĩkeethĩwa muundanĩ.
+Immediate future: 
+Wakyumwa ĩembe yĩĩ yĩkeethĩwa muundanĩ.
 
 Next Sunday this hoe will be at the garden.
 
 P1 Wakyuma maembe aa makeethiwa muundani.
 
-(N) Sing. Iyoo ngalĩ ĩno ĩnaĩ Ilovi
+(N) Sing. Iyoo ngalĩĩ ĩno ĩnaĩ Ilovi
 
 Yesterday this vehicle was in Nairobi.
 
-P1\. Unĩ ngalĩ ĩno ĩkeethĩwa Mombasa.
+P1\. Unĩ ngalĩĩ ĩno ĩkeethĩwa Mwambasa.
 
 Tommorrow this vehicle will be in Mombasa.
 
 EXERCISE ONE: KUTATA KWA MBEE;
 
-Sungia makulyo aa – Answer these questions: 1\. We ũendaa wĩanĩ mũthenya wĩkũ? 2\. Syana sya sukulu ithũmũaa mũthenya wĩkũ? 3\. Sukulu sya Kenya ivungaa mwai wĩkũ? 4\. Wavikei kũũ Kenya muthenya wĩkũ? 5\. We wĩkaa ata mũthenya wa kyumwa. 6\. Ũmunthĩ nĩ mũthenya wĩkũ? 7\. Ũnĩ nĩ wa keana? 8\. Iyoo kunai muthenya wĩkũ? 9\. Iso kwaĩ mũthenya wĩkũ? 10\. We ũvaa ngũa syaku mũthenya wĩkũ? 11\. Ũũ nĩ mwei wĩkũ? 12\. Ũũ nĩ mwaka wikũ?
+Sungia makulyo aa – Answer these questions: 
+1\. We ũendaa wĩanĩ mũthenya wĩkũ? 
+  Nye nienda wakatatu
+2\. Syana sya sukulu ithũmũaa mũthenya wĩkũ? 
 
+3\. Sukulu sya Kenya ivungaa mwai wĩkũ? 
+  Ikuma na ili (December), mwai wa kana (April), na mwai ya nyana (August)
+4\. Wavikie (you arrived) kũũ Kenya muthenya wĩkũ? 5\. 
+  Navikie Kenya wakana (Thursday)
+We wĩkaa ata mũthenya wa kyumwa. (Sunday)
+6\. Ũmunthĩ nĩ mũthenya wĩkũ? 
+  Umunthi ni muthenya wakeli (Tuesday)
+7\. Ũnĩ nĩ wa keana? 
+  wakatatu
+8\. Iyoo kunai muthenya wĩkũ? 
+  Wakwambiliilya Monday, yumaatatu
+9\. Iso kwaĩ mũthenya wĩkũ? 
+  wakyumwa
+10\. We ũvaa/wikia ngũa syaku mũthenya wĩkũ? 
+  Nye nikia yunivoomu muthenya wa sukulu
+11\. Ũũ nĩ mwei/mwai wĩkũ? 
+  Mwei wa ikumi na umwe/Mwei wa ikumi nomwe
+
+12\. Ũũ nĩ mwaka wikũ?
+Uu ni mwaka wa ngili ili na ikumi na muonza
+
+Sukulu sya kenya ivungaa Mawi wa ikumi na ili, wa kana, na wa nyaanya
 61
 
 
