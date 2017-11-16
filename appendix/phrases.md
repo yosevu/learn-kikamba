@@ -28,6 +28,9 @@ Haya nauseo indi
 - Ndiona ta waa muka - I see you are awake (answer: Ii)
 - Niona ta waa muka
 - Eka timinia vau / Eka twi minia vau - Let's finish there
+- I will read Ningusoma
+- Eka nzome - Let me read
+- Natyuu - And that's it
 
 Ninguendeea na kwithukiisya
 

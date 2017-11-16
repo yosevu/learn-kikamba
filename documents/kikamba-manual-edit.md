@@ -1575,13 +1575,13 @@ EXERCISE TWO: KUTATA KWA KELI - SOMA NGEWA INO: - READ THIS STORY:
 
 MŨSYĨ WA KYALO:
 
-Nyie nitawa Mũeni nake Nau etawa Kyalo, Nau athũkũmaa wĩa wa viasala. Atesaa ngũa nake mwaitũ akũnaa wĩa wa nyumba.
+Nyie nitawa Mũeni (girl, visitor) nake (and) Nau etawa Kyalo, Nau athũkũmaa wĩa wa viasala. Atesaa (sells) ngũa nake mwaitũ akũnaa (does) wĩa wa nyumba (house work.
 
-Kila wakwambĩlĩĩlya Nyie nĩnĩamũkaa tene na nĩnĩyumbanasya kũthi sukulu. Nau nake nĩ uendaa ndũnyũ ya masinga kũtooa ng‟ombe. Mwaitũ nake aamũkaa tene vyũ, akaua kyai na kũthambya mwana. Itina wa maũndũ asu mwaitũ aendaa mũũndanĩ kũĩma.
+Kila wakwambĩlĩĩlya Nyie nĩnĩamũkaa tene (early) na nĩnĩyumbanasya (prepare) kũthi sukulu. Nau nake nĩ uendaa ndũnyũ ya Masinga (a place in Kitui) kũthooa (sell) ng'ombe. Mwaitũ nake aamũkaa tene vyũ, akaua kyai na kũthambya (wash) mwana. Itina (after) wa maũndũ (kindu/kitu/something) undu/jambo) (things) asu mwaitũ aendaa mũũndanĩ kũĩma.
 
-Wakeli Nau aendaa mũũndanĩ kutetheesya mwaitũ kũĩma. Wakatatũ mwaitũ na Nau nĩmaendaa ndũnyũ. Nau aendaa kuthoosya ng‟ombe nake mwaitũ aenda kũthoosya mboka. Wakana wavika Nau nĩ ũendaa kũtetheesya Kavisi Kĩoko kũĩthya ng‟ombe. Mwaitũ nake nĩ ũendaa kũkethya sũsũ na kũmũtwaia ĩia.
+WaKEli Nau aendaa mũũndanĩ kutetheesya (help) mwaitũ kũĩma. Wakatatũ mwaitũ na Nau nĩmaendaa ndũnyũ. Nau aendaa kuthoosya ng‟ombe nake mwaitũ aenda kũthoosya mboka. WaKAna wavika (when Thursday), Nau nĩ ũendaa kũtetheesya Kavisi Kĩoko (the boy Kioko) kũĩthya (Kufuga) ng‟ombe. Mwaitũ nake nĩ ũendaa kũkethya (to visit) sũsũ na kũmũtwaia (take her/kumpeleka) ĩia.
 
-Wathanthatũ wavika ithyonthe nĩtũendaa mũũndanĩ kũnyithya mboka. Nau avandaa makovisi, Kioko atusaa manyaanya ma kũtwaa ndũnyũ nake mwaitũ ethĩawa akĩyumbania kũthi ndũnyũ. Wakyuma ithyĩ tũiendaa mũũndanĩ. Ũũ nĩ mũthenya wa kũthũmũa. Ithyonthe nitũendaaa ĩkanisanĩ kũvoya Ngai.
+Wathanthatũ wavika ithyonthe (arrives) nĩtũendaa mũũndanĩ kũnyithya (to water) mboka. Nau avandaa (plants) makovisi (cabbage), Kioko atusaa (pluck) manyaanya ma kũtwaa (to take (to sell)) ndũnyũ nake mwaitũ ethĩawa (usually) akĩyumbania (to get ready) kũthi ndũnyũ. Wakyumwa ithyĩ tũiendaa (we don't go) tuendaa (we go)  mũũndanĩ. Ũũ nĩ mũthenya wa kũthũmũa. Ithyonthe (arrives) nitũendaa ĩkanisanĩ kũvoya (pray) Ngai.
 
 MAKULYO – QUESTIONS: -
 
